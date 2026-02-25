@@ -1,0 +1,527 @@
+[
+  {
+    "prompt_id": "prompt_bde43302e530441c0afdea532cbbd419",
+    "english_prompt": "i think about her night and day.",
+    "aws_hu": "Éjjel-nappal gondolok rá.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Éjjel-nappal gondolok rá.",
+        "back_en": "I think about him day and night.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az éjjel-nappal gondolok rá.",
+        "back_en": "I think of him day and night.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az éjjel és nappal gondolok rá.",
+        "back_en": "I think of him day and night.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Én éjjel-nappal gondolok rá.",
+        "back_en": "I think about him day and night.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az ő éjjel-nappal gondolok rá.",
+        "back_en": "I think of him day and night.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_fb0d11d86446e7b8a74a79e29c526b48",
+    "english_prompt": "she has no arguments.",
+    "aws_hu": "Nincs vitája.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Nincs vitája.",
+        "back_en": "There is no dispute.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Nincs érvése.",
+        "back_en": "You have no argument.",
+        "matches_gold": false
+      },
+      {
+        "hu": "őnek nincs vitája.",
+        "back_en": "he has no argument.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Nincs semmi vitája.",
+        "back_en": "There is no dispute.",
+        "matches_gold": false
+      },
+      {
+        "hu": "őneki vitája nincs.",
+        "back_en": "he has no argument.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_e6ba1f258cb386e7333d5b852761de33",
+    "english_prompt": "they are going to finish reading.",
+    "aws_hu": "befejezik az olvasást.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "befejezik az olvasást.",
+        "back_en": "they finish reading.",
+        "matches_gold": false
+      },
+      {
+        "hu": "majd befejezik majd az olvasást.",
+        "back_en": "and then they will finish reading.",
+        "matches_gold": false
+      },
+      {
+        "hu": "befejezni fogják majd az olvasást.",
+        "back_en": "will finish reading.",
+        "matches_gold": false
+      },
+      {
+        "hu": "befejezik majd majd az olvasást.",
+        "back_en": "they will finish reading.",
+        "matches_gold": false
+      },
+      {
+        "hu": "majd befejezik majd a olvasást.",
+        "back_en": "and then they will finish reading.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_0e0620336882df279c8dc48b47d97317",
+    "english_prompt": "february is bad for the business.",
+    "aws_hu": "február rossz az üzletnek.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "február rossz az üzletnek.",
+        "back_en": "February is bad for business.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a cégnek rossz a február.",
+        "back_en": "the company has a bad February.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a üzletnek rossz a február.",
+        "back_en": "business is having a bad February.",
+        "matches_gold": false
+      },
+      {
+        "hu": "február rossz az üzlet számára.",
+        "back_en": "February is bad for business.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a üzletnek a február rossz.",
+        "back_en": "February is bad for business.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_48263c6a2472982f23e9c06a529b63c7",
+    "english_prompt": "from child to man.",
+    "aws_hu": "gyermekről emberre.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "gyermekről emberre.",
+        "back_en": "from child to human.",
+        "matches_gold": false
+      },
+      {
+        "hu": "gyermektől a férfinek.",
+        "back_en": "from child to man.",
+        "matches_gold": false
+      },
+      {
+        "hu": "gyerektől a férfinek.",
+        "back_en": "from child to man.",
+        "matches_gold": false
+      },
+      {
+        "hu": "gyermekből a férfinek.",
+        "back_en": "from child to man.",
+        "matches_gold": false
+      },
+      {
+        "hu": "gyerekről emberre.",
+        "back_en": "from child to human.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_5a18ed7a3a48921f7c2333510a178fb9",
+    "english_prompt": "the girl has a wooden duck.",
+    "aws_hu": "a lánynak van egy fából készült kacsa.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "a lánynak van egy fából készült kacsa.",
+        "back_en": "the girl has a wooden duck.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a lánynak van egy fa kacsája.",
+        "back_en": "the girl has a wooden duck.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a lánynak van egy fa kacsa.",
+        "back_en": "the girl has a wooden duck.",
+        "matches_gold": false
+      },
+      {
+        "hu": "van a lánynak egy fa kacsája.",
+        "back_en": "the girl has a wooden duck.",
+        "matches_gold": false
+      },
+      {
+        "hu": "van a lánynak egy fa kacsa.",
+        "back_en": "the girl has a wooden duck.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_5c815df72c81539a93a8fa40bb448715",
+    "english_prompt": "we are going to assume that she ate.",
+    "aws_hu": "Feltételezzük, hogy evett.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Feltételezzük, hogy evett.",
+        "back_en": "We assume that he ate.",
+        "matches_gold": false
+      },
+      {
+        "hu": "fogjuk azt feltételezni, hogy ő ett.",
+        "back_en": "we will assume that he has eaten.",
+        "matches_gold": false
+      },
+      {
+        "hu": "azt fogjuk feltételezni, hogy ő ett.",
+        "back_en": "we will assume that he is the eater.",
+        "matches_gold": false
+      },
+      {
+        "hu": "fogjuk feltételezni, hogy ő ett.",
+        "back_en": "we will assume that he has eaten.",
+        "matches_gold": false
+      },
+      {
+        "hu": "fogjuk azt feltételezni, hogy ő esett.",
+        "back_en": "we will assume that he fell.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_1221519248658e48781af405e3a3f18b",
+    "english_prompt": "your sandwiches",
+    "aws_hu": "a szendvicseket",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "a szendvicseket",
+        "back_en": "the sandwiches",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szendvicsed",
+        "back_en": "your sandwich",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szendvicsek",
+        "back_en": "the sandwiches",
+        "matches_gold": false
+      },
+      {
+        "hu": "a te szendvicsed",
+        "back_en": "your sandwich",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szendvicsjeid",
+        "back_en": "your sandwiches",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_4f6003a96fc0da4dc2b5e2f3bd4c0e97",
+    "english_prompt": "save an apple for me.",
+    "aws_hu": "Tartogass nekem egy almát.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Tartogass nekem egy almát.",
+        "back_en": "Save me an apple.",
+        "matches_gold": false
+      },
+      {
+        "hu": "mentse meg nekem egy almát!",
+        "back_en": "save me an apple!",
+        "matches_gold": false
+      },
+      {
+        "hu": "mentse meg egy almát nekem.",
+        "back_en": "save an apple for me.",
+        "matches_gold": false
+      },
+      {
+        "hu": "mentsen egy almát nekem.",
+        "back_en": "save me an apple.",
+        "matches_gold": false
+      },
+      {
+        "hu": "mentsen meg nekem egy almát.",
+        "back_en": "save me an apple.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_29408d6275e6a56e0b2085dc4ce5bd16",
+    "english_prompt": "he is a musical boy.",
+    "aws_hu": "Ő egy zenés fiú.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Ő egy zenés fiú.",
+        "back_en": "He is a musical boy.",
+        "matches_gold": false
+      },
+      {
+        "hu": "zenész fiú.",
+        "back_en": "musician boy.",
+        "matches_gold": false
+      },
+      {
+        "hu": "zenész fiú ő.",
+        "back_en": "he is a musician boy.",
+        "matches_gold": false
+      },
+      {
+        "hu": "egy zenész fiú.",
+        "back_en": "a boy musician.",
+        "matches_gold": false
+      },
+      {
+        "hu": "zenei fiú.",
+        "back_en": "music boy.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_245dffb357e68a05caa28c9b945892c5",
+    "english_prompt": "population per district",
+    "aws_hu": "népesség körzetenként",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "népesség körzetenként",
+        "back_en": "population per district",
+        "matches_gold": false
+      },
+      {
+        "hu": "lakosság tartományonként",
+        "back_en": "population per province",
+        "matches_gold": false
+      },
+      {
+        "hu": "lakosság körzetenként",
+        "back_en": "population per district",
+        "matches_gold": false
+      },
+      {
+        "hu": "lakosság a tartományonként",
+        "back_en": "population per province",
+        "matches_gold": false
+      },
+      {
+        "hu": "lakosság a körzetből",
+        "back_en": "population from the district",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_585f70199473400f40d3d6ec15429685",
+    "english_prompt": "i would like to call you, what is your number?",
+    "aws_hu": "Szeretnélek hívni, mi a száma?",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Szeretnélek hívni, mi a száma?",
+        "back_en": "I'd like to call you, what's your number?",
+        "matches_gold": false
+      },
+      {
+        "hu": "Szeretnék hívni téged, mi a számod?",
+        "back_en": "I'd like to call you, what's your number?",
+        "matches_gold": false
+      },
+      {
+        "hu": "Szeretném felhívni téged, mi a számod?",
+        "back_en": "I'd like to call you, what's your number?",
+        "matches_gold": false
+      },
+      {
+        "hu": "Szeretném felhívni, mi a számod?",
+        "back_en": "I'd like to call him, what's your number?",
+        "matches_gold": false
+      },
+      {
+        "hu": "Szeretném hívni, mi a számod?",
+        "back_en": "I'd like to call him, what's your number?",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_e63e6132d993c23e740a84959de72d70",
+    "english_prompt": "i mark my shirt.",
+    "aws_hu": "Megjelöltem az ingemet.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Megjelöltem az ingemet.",
+        "back_en": "I marked my shirt.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Feljelölöm az ingem.",
+        "back_en": "I'm ticking my shirt.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Feljelölöm az ingemet.",
+        "back_en": "I'm ticking my shirt.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Jegyeztem az ingemet.",
+        "back_en": "I have noted my shirt.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Feljelölöm a pólómat.",
+        "back_en": "I'll mark my shirt.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_a049792a21b4b28da6f8e1a272178f72",
+    "english_prompt": "yours are green, mine is white.",
+    "aws_hu": "A tiéd zöld, az enyém fehér.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "A tiéd zöld, az enyém fehér.",
+        "back_en": "Yours is green, mine is white.",
+        "matches_gold": false
+      },
+      {
+        "hu": "A tied zöld, az enyém fehér.",
+        "back_en": "Yours is green, mine is white.",
+        "matches_gold": false
+      },
+      {
+        "hu": "A tiéd zöld, az enyém pedig fehér.",
+        "back_en": "Yours is green and mine is white.",
+        "matches_gold": false
+      },
+      {
+        "hu": "A tiéd zöld színű, az enyém fehér színű.",
+        "back_en": "Yours is green, mine is white.",
+        "matches_gold": false
+      },
+      {
+        "hu": "A tied zöld, az enyém pedig fehér.",
+        "back_en": "Yours is green and mine is white.",
+        "matches_gold": false
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_335114f8f6ff8d7731039df8206d0f9c",
+    "english_prompt": "you jump with me.",
+    "aws_hu": "Ugorj velem.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Ugorj velem.",
+        "back_en": "Jump with me.",
+        "matches_gold": false
+      },
+      {
+        "hu": "ugrálsz velem.",
+        "back_en": "jumping around with me.",
+        "matches_gold": false
+      },
+      {
+        "hu": "velem ugrálsz.",
+        "back_en": "jumping with me.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Te velem ugrálsz.",
+        "back_en": "You're jumping with me.",
+        "matches_gold": false
+      },
+      {
+        "hu": "Ön velem ugrál.",
+        "back_en": "You are jumping with me.",
+        "matches_gold": false
+      }
+    ]
+  }
+]

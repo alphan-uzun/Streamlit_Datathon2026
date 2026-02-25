@@ -1,0 +1,10 @@
+api_key.txt
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+presentation_exports/
+external/
+submissions/

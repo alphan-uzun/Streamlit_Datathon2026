@@ -1,0 +1,1343 @@
+{
+  "gold": "staple-2020/en_hu/dev.en_hu.2020-02-20.gold.txt",
+  "metric": "official_duolingo_staple_weighted_macro_f1",
+  "by_system": {
+    "aws_top1": {
+      "label": "AWS baseline top-1",
+      "system_type": "single",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "staple-2020/en_hu/dev.en_hu.aws_baseline.pred.txt",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        }
+      }
+    },
+    "candidates_dev": {
+      "label": "candidates_dev (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.22573524578620244
+        },
+        "2": {
+          "weighted_macro_f1": 0.2822580986545107
+        },
+        "3": {
+          "weighted_macro_f1": 0.2971766322514063
+        },
+        "5": {
+          "weighted_macro_f1": 0.3032368605630567
+        },
+        "10": {
+          "weighted_macro_f1": 0.27978041754717436
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "candidates_dev_base": {
+      "label": "candidates_dev_base (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_base.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.22573524578620244
+        },
+        "2": {
+          "weighted_macro_f1": 0.2822580986545107
+        },
+        "3": {
+          "weighted_macro_f1": 0.29752501270297566
+        },
+        "5": {
+          "weighted_macro_f1": 0.3044237757467645
+        },
+        "10": {
+          "weighted_macro_f1": 0.2783571689975011
+        },
+        "20": {
+          "weighted_macro_f1": 0.27524845978741624
+        }
+      }
+    },
+    "candidates_dev_v31_manual": {
+      "label": "candidates_dev_v31_manual (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v31_manual.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2185347095769841
+        },
+        "2": {
+          "weighted_macro_f1": 0.2941678804545326
+        },
+        "3": {
+          "weighted_macro_f1": 0.32369312210224216
+        },
+        "5": {
+          "weighted_macro_f1": 0.3337679886199097
+        },
+        "10": {
+          "weighted_macro_f1": 0.32231341659554735
+        },
+        "20": {
+          "weighted_macro_f1": 0.3189163804317052
+        }
+      }
+    },
+    "candidates_dev_v31_manual_gemini_pilot10": {
+      "label": "candidates_dev_v31_manual_gemini_pilot10 (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v31_manual_gemini_pilot10.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2185347095769841
+        },
+        "2": {
+          "weighted_macro_f1": 0.2941678804545326
+        },
+        "3": {
+          "weighted_macro_f1": 0.32369312210224216
+        },
+        "5": {
+          "weighted_macro_f1": 0.3337679886199097
+        },
+        "10": {
+          "weighted_macro_f1": 0.32231341659554735
+        },
+        "20": {
+          "weighted_macro_f1": 0.3189163804317052
+        }
+      }
+    },
+    "candidates_dev_v32_recall": {
+      "label": "candidates_dev_v32_recall (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v32_recall.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21682475982844587
+        },
+        "2": {
+          "weighted_macro_f1": 0.2953616669299467
+        },
+        "3": {
+          "weighted_macro_f1": 0.3243536112928628
+        },
+        "5": {
+          "weighted_macro_f1": 0.34266123520210384
+        },
+        "10": {
+          "weighted_macro_f1": 0.3315355347254757
+        },
+        "20": {
+          "weighted_macro_f1": 0.3280238035219365
+        }
+      }
+    },
+    "candidates_dev_v331_xl": {
+      "label": "candidates_dev_v331_xl (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v331_xl.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21682475982844587
+        },
+        "2": {
+          "weighted_macro_f1": 0.2956580368753886
+        },
+        "3": {
+          "weighted_macro_f1": 0.3246203074934286
+        },
+        "5": {
+          "weighted_macro_f1": 0.3429081817329359
+        },
+        "10": {
+          "weighted_macro_f1": 0.34297946354924913
+        },
+        "20": {
+          "weighted_macro_f1": 0.29153995001808225
+        }
+      }
+    },
+    "candidates_dev_v331_xl_plus_aws": {
+      "label": "candidates_dev_v331_xl_plus_aws (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v331_xl_plus_aws.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21682475982844587
+        },
+        "2": {
+          "weighted_macro_f1": 0.2956580368753886
+        },
+        "3": {
+          "weighted_macro_f1": 0.3246203074934286
+        },
+        "5": {
+          "weighted_macro_f1": 0.3429081817329359
+        },
+        "10": {
+          "weighted_macro_f1": 0.34297946354924913
+        },
+        "20": {
+          "weighted_macro_f1": 0.2922158921511326
+        }
+      }
+    },
+    "candidates_dev_v33_big": {
+      "label": "candidates_dev_v33_big (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v33_big.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21682475982844587
+        },
+        "2": {
+          "weighted_macro_f1": 0.2957324142652649
+        },
+        "3": {
+          "weighted_macro_f1": 0.3247804694035087
+        },
+        "5": {
+          "weighted_macro_f1": 0.3425414061337491
+        },
+        "10": {
+          "weighted_macro_f1": 0.3363038212485673
+        },
+        "20": {
+          "weighted_macro_f1": 0.3085998639078526
+        }
+      }
+    },
+    "candidates_dev_v34_big": {
+      "label": "candidates_dev_v34_big (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v34_big.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21528984623730163
+        },
+        "2": {
+          "weighted_macro_f1": 0.3020594230045188
+        },
+        "3": {
+          "weighted_macro_f1": 0.3265351533591191
+        },
+        "5": {
+          "weighted_macro_f1": 0.343253072659609
+        },
+        "10": {
+          "weighted_macro_f1": 0.3357003107234085
+        },
+        "20": {
+          "weighted_macro_f1": 0.30375783213165447
+        }
+      }
+    },
+    "candidates_dev_v34e3_big": {
+      "label": "candidates_dev_v34e3_big (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v34e3_big.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21116481281986213
+        },
+        "2": {
+          "weighted_macro_f1": 0.2876326146257838
+        },
+        "3": {
+          "weighted_macro_f1": 0.3225774617086853
+        },
+        "5": {
+          "weighted_macro_f1": 0.3600824593401437
+        },
+        "10": {
+          "weighted_macro_f1": 0.35387163210855554
+        },
+        "20": {
+          "weighted_macro_f1": 0.334200382369327
+        }
+      }
+    },
+    "candidates_dev_v34e3_plus_aws": {
+      "label": "candidates_dev_v34e3_plus_aws (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v34e3_plus_aws.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21116481281986213
+        },
+        "2": {
+          "weighted_macro_f1": 0.2876326146257838
+        },
+        "3": {
+          "weighted_macro_f1": 0.3225774617086853
+        },
+        "5": {
+          "weighted_macro_f1": 0.3600824593401437
+        },
+        "10": {
+          "weighted_macro_f1": 0.3546458041500452
+        },
+        "20": {
+          "weighted_macro_f1": 0.34169074179835807
+        }
+      }
+    },
+    "candidates_dev_v34e3_plus_base": {
+      "label": "candidates_dev_v34e3_plus_base (raw)",
+      "system_type": "raw_candidates",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "candidates_dev_v34e3_plus_base.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21116481281986213
+        },
+        "2": {
+          "weighted_macro_f1": 0.2876326146257838
+        },
+        "3": {
+          "weighted_macro_f1": 0.3225774617086853
+        },
+        "5": {
+          "weighted_macro_f1": 0.35971898272660136
+        },
+        "10": {
+          "weighted_macro_f1": 0.35035442494317287
+        },
+        "20": {
+          "weighted_macro_f1": 0.31609083627227763
+        }
+      }
+    },
+    "reranked_dev": {
+      "label": "reranked_dev",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.09584700639138236
+        },
+        "2": {
+          "weighted_macro_f1": 0.16294335420027334
+        },
+        "3": {
+          "weighted_macro_f1": 0.2076070990418189
+        },
+        "5": {
+          "weighted_macro_f1": 0.2540823565938998
+        },
+        "10": {
+          "weighted_macro_f1": 0.27912143963382724
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "reranked_dev_geo": {
+      "label": "reranked_dev_geo",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_geo.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2252236419809239
+        },
+        "2": {
+          "weighted_macro_f1": 0.28261627596301414
+        },
+        "3": {
+          "weighted_macro_f1": 0.29720826543559814
+        },
+        "5": {
+          "weighted_macro_f1": 0.30396228359720007
+        },
+        "10": {
+          "weighted_macro_f1": 0.27978041754717436
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "reranked_dev_geo_k2": {
+      "label": "reranked_dev_geo_k2",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_geo_k2.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2249549751426543
+        },
+        "2": {
+          "weighted_macro_f1": 0.28228998399743394
+        },
+        "3": {
+          "weighted_macro_f1": 0.29720826543559814
+        },
+        "5": {
+          "weighted_macro_f1": 0.30396228359720007
+        },
+        "10": {
+          "weighted_macro_f1": 0.27978041754717436
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "reranked_dev_geo_k2_a05": {
+      "label": "reranked_dev_geo_k2_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_geo_k2_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.22393783298837253
+        },
+        "2": {
+          "weighted_macro_f1": 0.28719717553208285
+        },
+        "3": {
+          "weighted_macro_f1": 0.30030783766505526
+        },
+        "5": {
+          "weighted_macro_f1": 0.304720844479811
+        },
+        "10": {
+          "weighted_macro_f1": 0.2798720402470095
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "reranked_dev_geo_k3_a05": {
+      "label": "reranked_dev_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.22359435729868102
+        },
+        "2": {
+          "weighted_macro_f1": 0.286880861396372
+        },
+        "3": {
+          "weighted_macro_f1": 0.30046421006783197
+        },
+        "5": {
+          "weighted_macro_f1": 0.30483983452665536
+        },
+        "10": {
+          "weighted_macro_f1": 0.2798720402470095
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "reranked_dev_hybrid": {
+      "label": "reranked_dev_hybrid",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_hybrid.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.22335696911533345
+        },
+        "2": {
+          "weighted_macro_f1": 0.27603907390376287
+        },
+        "3": {
+          "weighted_macro_f1": 0.2944581441704653
+        },
+        "5": {
+          "weighted_macro_f1": 0.3036051131916792
+        },
+        "10": {
+          "weighted_macro_f1": 0.2799915060500295
+        },
+        "20": {
+          "weighted_macro_f1": 0.2777954465150521
+        }
+      }
+    },
+    "reranked_dev_v31_geo_k3_a05": {
+      "label": "reranked_dev_v31_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v31_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2195060637238372
+        },
+        "2": {
+          "weighted_macro_f1": 0.2950856079440269
+        },
+        "3": {
+          "weighted_macro_f1": 0.32505373166124507
+        },
+        "5": {
+          "weighted_macro_f1": 0.33557604961711923
+        },
+        "10": {
+          "weighted_macro_f1": 0.32352834648764456
+        },
+        "20": {
+          "weighted_macro_f1": 0.3189163804317052
+        }
+      }
+    },
+    "reranked_dev_v31_geo_k3_a05_refit": {
+      "label": "reranked_dev_v31_geo_k3_a05_refit",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v31_geo_k3_a05_refit.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21904711844925523
+        },
+        "2": {
+          "weighted_macro_f1": 0.2953199966609076
+        },
+        "3": {
+          "weighted_macro_f1": 0.3257948809320168
+        },
+        "5": {
+          "weighted_macro_f1": 0.33578465647110983
+        },
+        "10": {
+          "weighted_macro_f1": 0.32352834648764456
+        },
+        "20": {
+          "weighted_macro_f1": 0.3189163804317052
+        }
+      }
+    },
+    "reranked_dev_v32_geo_k3_a05": {
+      "label": "reranked_dev_v32_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v32_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21762056196456692
+        },
+        "2": {
+          "weighted_macro_f1": 0.2970789605902103
+        },
+        "3": {
+          "weighted_macro_f1": 0.3280845705913751
+        },
+        "5": {
+          "weighted_macro_f1": 0.3447710805982006
+        },
+        "10": {
+          "weighted_macro_f1": 0.3318080455933792
+        },
+        "20": {
+          "weighted_macro_f1": 0.3280238035219365
+        }
+      }
+    },
+    "reranked_dev_v331_xl_geo_k3_a05": {
+      "label": "reranked_dev_v331_xl_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v331_xl_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2286804321878431
+        },
+        "2": {
+          "weighted_macro_f1": 0.3031324617272002
+        },
+        "3": {
+          "weighted_macro_f1": 0.33366951821061724
+        },
+        "5": {
+          "weighted_macro_f1": 0.35250444130935055
+        },
+        "10": {
+          "weighted_macro_f1": 0.3496803632523263
+        },
+        "20": {
+          "weighted_macro_f1": 0.29550843728680376
+        }
+      }
+    },
+    "reranked_dev_v331_xl_geo_k3_a05_aws_anchor": {
+      "label": "reranked_dev_v331_xl_geo_k3_a05_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v331_xl_geo_k3_a05_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.3601483274977541
+        },
+        "3": {
+          "weighted_macro_f1": 0.37961821940309237
+        },
+        "5": {
+          "weighted_macro_f1": 0.3890529049416791
+        },
+        "10": {
+          "weighted_macro_f1": 0.367656343280272
+        },
+        "20": {
+          "weighted_macro_f1": 0.3046472478049806
+        }
+      }
+    },
+    "reranked_dev_v33_big_geo_k3_a05": {
+      "label": "reranked_dev_v33_big_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v33_big_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2217907098859641
+        },
+        "2": {
+          "weighted_macro_f1": 0.30140911841765433
+        },
+        "3": {
+          "weighted_macro_f1": 0.3302049890785759
+        },
+        "5": {
+          "weighted_macro_f1": 0.34881959055070116
+        },
+        "10": {
+          "weighted_macro_f1": 0.33948621352578073
+        },
+        "20": {
+          "weighted_macro_f1": 0.3092531061127115
+        }
+      }
+    },
+    "reranked_dev_v34_big_geo_k3_a05": {
+      "label": "reranked_dev_v34_big_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34_big_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21831369594963287
+        },
+        "2": {
+          "weighted_macro_f1": 0.304716233072374
+        },
+        "3": {
+          "weighted_macro_f1": 0.33071818944595716
+        },
+        "5": {
+          "weighted_macro_f1": 0.34963531111674606
+        },
+        "10": {
+          "weighted_macro_f1": 0.338505234159171
+        },
+        "20": {
+          "weighted_macro_f1": 0.30433056015697
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_fusion_meta_v27c": {
+      "label": "reranked_dev_v34e3_big_fusion_meta_v27c",
+      "system_type": "reranked_multik",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "reranked_dev_v34e3_big_fusion_meta_v27c.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.28533539280810555
+        },
+        "2": {
+          "weighted_macro_f1": 0.3533436784671835
+        },
+        "3": {
+          "weighted_macro_f1": 0.3752399202724927
+        },
+        "5": {
+          "weighted_macro_f1": 0.3852617287554458
+        },
+        "10": {
+          "weighted_macro_f1": 0.36061183048410195
+        },
+        "20": {
+          "weighted_macro_f1": 0.3344000870202745
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_fusion_v27b": {
+      "label": "reranked_dev_v34e3_big_fusion_v27b",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_v34e3_big_fusion_v27b.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.29111502550593527
+        },
+        "2": {
+          "weighted_macro_f1": 0.3610153955886365
+        },
+        "3": {
+          "weighted_macro_f1": 0.3831884026365679
+        },
+        "5": {
+          "weighted_macro_f1": 0.3942920864604406
+        },
+        "10": {
+          "weighted_macro_f1": 0.3664845072417034
+        },
+        "20": {
+          "weighted_macro_f1": 0.3351834755234477
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_fusion_v27b_aws_anchor": {
+      "label": "reranked_dev_v34e3_big_fusion_v27b_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_v34e3_big_fusion_v27b_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.3716442541066004
+        },
+        "3": {
+          "weighted_macro_f1": 0.4006973109546456
+        },
+        "5": {
+          "weighted_macro_f1": 0.4138154580091005
+        },
+        "10": {
+          "weighted_macro_f1": 0.38275599108784075
+        },
+        "20": {
+          "weighted_macro_f1": 0.3474711379476503
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_awsproto": {
+      "label": "reranked_dev_v34e3_big_geo_awsproto",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_awsproto.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2162941548008442
+        },
+        "2": {
+          "weighted_macro_f1": 0.29993025740411844
+        },
+        "3": {
+          "weighted_macro_f1": 0.33910007577908763
+        },
+        "5": {
+          "weighted_macro_f1": 0.37158659081125667
+        },
+        "10": {
+          "weighted_macro_f1": 0.36204184272807194
+        },
+        "20": {
+          "weighted_macro_f1": 0.3350535154836489
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_awsproto_bestk5": {
+      "label": "reranked_dev_v34e3_big_geo_awsproto_bestk5",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_awsproto_bestk5.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21859276086432688
+        },
+        "2": {
+          "weighted_macro_f1": 0.30292093255525504
+        },
+        "3": {
+          "weighted_macro_f1": 0.3393980091470993
+        },
+        "5": {
+          "weighted_macro_f1": 0.3722855571650945
+        },
+        "10": {
+          "weighted_macro_f1": 0.3626215319499239
+        },
+        "20": {
+          "weighted_macro_f1": 0.33501417977307324
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_bestk5": {
+      "label": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_bestk5",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_bestk5.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21859276086432688
+        },
+        "2": {
+          "weighted_macro_f1": 0.30292093255525504
+        },
+        "3": {
+          "weighted_macro_f1": 0.3393980091470993
+        },
+        "5": {
+          "weighted_macro_f1": 0.3722855571650945
+        },
+        "10": {
+          "weighted_macro_f1": 0.3626215319499239
+        },
+        "20": {
+          "weighted_macro_f1": 0.33501417977307324
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r1": {
+      "label": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r1",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r1.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21859276086432688
+        },
+        "2": {
+          "weighted_macro_f1": 0.30292093255525504
+        },
+        "3": {
+          "weighted_macro_f1": 0.3393980091470993
+        },
+        "5": {
+          "weighted_macro_f1": 0.3722855571650945
+        },
+        "10": {
+          "weighted_macro_f1": 0.3626215319499239
+        },
+        "20": {
+          "weighted_macro_f1": 0.33501417977307324
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r2": {
+      "label": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r2",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r2.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21859276086432688
+        },
+        "2": {
+          "weighted_macro_f1": 0.30292093255525504
+        },
+        "3": {
+          "weighted_macro_f1": 0.3393980091470993
+        },
+        "5": {
+          "weighted_macro_f1": 0.3722855571650945
+        },
+        "10": {
+          "weighted_macro_f1": 0.3626215319499239
+        },
+        "20": {
+          "weighted_macro_f1": 0.33501417977307324
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r5": {
+      "label": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r5",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_awsproto_cond_anchor_r5.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.21859276086432688
+        },
+        "2": {
+          "weighted_macro_f1": 0.30292093255525504
+        },
+        "3": {
+          "weighted_macro_f1": 0.3393980091470993
+        },
+        "5": {
+          "weighted_macro_f1": 0.3722855571650945
+        },
+        "10": {
+          "weighted_macro_f1": 0.3626215319499239
+        },
+        "20": {
+          "weighted_macro_f1": 0.33501417977307324
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_k3_a05": {
+      "label": "reranked_dev_v34e3_big_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2098572881127283
+        },
+        "2": {
+          "weighted_macro_f1": 0.2927537936674059
+        },
+        "3": {
+          "weighted_macro_f1": 0.3295905823148718
+        },
+        "5": {
+          "weighted_macro_f1": 0.3637556743129706
+        },
+        "10": {
+          "weighted_macro_f1": 0.3569451070199958
+        },
+        "20": {
+          "weighted_macro_f1": 0.33452032017777344
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_k3_a05_aws_anchor": {
+      "label": "reranked_dev_v34e3_big_geo_k3_a05_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_k3_a05_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.36403525181792845
+        },
+        "3": {
+          "weighted_macro_f1": 0.38618442544889664
+        },
+        "5": {
+          "weighted_macro_f1": 0.39670023217901745
+        },
+        "10": {
+          "weighted_macro_f1": 0.3774709733984206
+        },
+        "20": {
+          "weighted_macro_f1": 0.34682772785866794
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_pairwise_v25": {
+      "label": "reranked_dev_v34e3_big_geo_pairwise_v25",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_pairwise_v25.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.29680257380887637
+        },
+        "2": {
+          "weighted_macro_f1": 0.36855582157633116
+        },
+        "3": {
+          "weighted_macro_f1": 0.39894277444063514
+        },
+        "5": {
+          "weighted_macro_f1": 0.41290563018047083
+        },
+        "10": {
+          "weighted_macro_f1": 0.3761368274387657
+        },
+        "20": {
+          "weighted_macro_f1": 0.3351404906058076
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_pairwise_v25a": {
+      "label": "reranked_dev_v34e3_big_geo_pairwise_v25a",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_pairwise_v25a.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2977372887653525
+        },
+        "2": {
+          "weighted_macro_f1": 0.3675112635196866
+        },
+        "3": {
+          "weighted_macro_f1": 0.39825942233179096
+        },
+        "5": {
+          "weighted_macro_f1": 0.4133875776896412
+        },
+        "10": {
+          "weighted_macro_f1": 0.37512840905304223
+        },
+        "20": {
+          "weighted_macro_f1": 0.3351134751024918
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_pairwise_v25b": {
+      "label": "reranked_dev_v34e3_big_geo_pairwise_v25b",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_pairwise_v25b.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.29911908143060867
+        },
+        "2": {
+          "weighted_macro_f1": 0.3705737708142139
+        },
+        "3": {
+          "weighted_macro_f1": 0.4002139770267073
+        },
+        "5": {
+          "weighted_macro_f1": 0.4138530869176121
+        },
+        "10": {
+          "weighted_macro_f1": 0.37473368579364014
+        },
+        "20": {
+          "weighted_macro_f1": 0.3351404906058076
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_pairwise_v25b_aws_anchor": {
+      "label": "reranked_dev_v34e3_big_geo_pairwise_v25b_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_pairwise_v25b_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.38175242419344646
+        },
+        "3": {
+          "weighted_macro_f1": 0.41558170610639084
+        },
+        "5": {
+          "weighted_macro_f1": 0.43363734441603824
+        },
+        "10": {
+          "weighted_macro_f1": 0.39106085991063144
+        },
+        "20": {
+          "weighted_macro_f1": 0.347441777667935
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_pairwise_v25c": {
+      "label": "reranked_dev_v34e3_big_geo_pairwise_v25c",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_pairwise_v25c.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.299216779004474
+        },
+        "2": {
+          "weighted_macro_f1": 0.3642356626763149
+        },
+        "3": {
+          "weighted_macro_f1": 0.3946073698491738
+        },
+        "5": {
+          "weighted_macro_f1": 0.40824788812602414
+        },
+        "10": {
+          "weighted_macro_f1": 0.3734482500523875
+        },
+        "20": {
+          "weighted_macro_f1": 0.33509756323238166
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_geo_pairwise_v25d": {
+      "label": "reranked_dev_v34e3_big_geo_pairwise_v25d",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_big_geo_pairwise_v25d.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.299216779004474
+        },
+        "2": {
+          "weighted_macro_f1": 0.3642356626763149
+        },
+        "3": {
+          "weighted_macro_f1": 0.3946073698491738
+        },
+        "5": {
+          "weighted_macro_f1": 0.40824788812602414
+        },
+        "10": {
+          "weighted_macro_f1": 0.3734482500523875
+        },
+        "20": {
+          "weighted_macro_f1": 0.33509756323238166
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_pairwise_noleak_v26a": {
+      "label": "reranked_dev_v34e3_big_pairwise_noleak_v26a",
+      "system_type": "reranked_multik",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "reranked_dev_v34e3_big_pairwise_noleak_v26a.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.28978332890751807
+        },
+        "2": {
+          "weighted_macro_f1": 0.35725803858152655
+        },
+        "3": {
+          "weighted_macro_f1": 0.38514152292622855
+        },
+        "5": {
+          "weighted_macro_f1": 0.39113279301418497
+        },
+        "10": {
+          "weighted_macro_f1": 0.3644727851428209
+        },
+        "20": {
+          "weighted_macro_f1": 0.335140202973803
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_pairwise_noleak_v26a_aws_anchor": {
+      "label": "reranked_dev_v34e3_big_pairwise_noleak_v26a_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "reranked_dev_v34e3_big_pairwise_noleak_v26a_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.36907986510025403
+        },
+        "3": {
+          "weighted_macro_f1": 0.39915055012371414
+        },
+        "5": {
+          "weighted_macro_f1": 0.4114506959431899
+        },
+        "10": {
+          "weighted_macro_f1": 0.3800241257730319
+        },
+        "20": {
+          "weighted_macro_f1": 0.3474349048926989
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_relevance_v27a": {
+      "label": "reranked_dev_v34e3_big_relevance_v27a",
+      "system_type": "reranked_multik",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "reranked_dev_v34e3_big_relevance_v27a.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2891966846462268
+        },
+        "2": {
+          "weighted_macro_f1": 0.357175757852206
+        },
+        "3": {
+          "weighted_macro_f1": 0.3818771775502938
+        },
+        "5": {
+          "weighted_macro_f1": 0.3975052805168328
+        },
+        "10": {
+          "weighted_macro_f1": 0.36687557832480405
+        },
+        "20": {
+          "weighted_macro_f1": 0.33427041189988604
+        }
+      }
+    },
+    "reranked_dev_v34e3_big_relevance_v27a_aws_anchor": {
+      "label": "reranked_dev_v34e3_big_relevance_v27a_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "valid_non_leaky",
+      "source_file": "reranked_dev_v34e3_big_relevance_v27a_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.372698270288802
+        },
+        "3": {
+          "weighted_macro_f1": 0.3981220680480848
+        },
+        "5": {
+          "weighted_macro_f1": 0.41454909223552583
+        },
+        "10": {
+          "weighted_macro_f1": 0.3836089104853348
+        },
+        "20": {
+          "weighted_macro_f1": 0.34646746475708823
+        }
+      }
+    },
+    "reranked_dev_v34e3_plus_aws_fused_soft": {
+      "label": "reranked_dev_v34e3_plus_aws_fused_soft",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_v34e3_plus_aws_fused_soft.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2098572881127283
+        },
+        "2": {
+          "weighted_macro_f1": 0.2900964601945156
+        },
+        "3": {
+          "weighted_macro_f1": 0.3228595916407441
+        },
+        "5": {
+          "weighted_macro_f1": 0.36214353418597106
+        },
+        "10": {
+          "weighted_macro_f1": 0.3639492428986219
+        },
+        "20": {
+          "weighted_macro_f1": 0.34571696230898413
+        }
+      }
+    },
+    "reranked_dev_v34e3_plus_aws_geo_k3_a05": {
+      "label": "reranked_dev_v34e3_plus_aws_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_plus_aws_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2098572881127283
+        },
+        "2": {
+          "weighted_macro_f1": 0.2927537936674059
+        },
+        "3": {
+          "weighted_macro_f1": 0.3295905823148718
+        },
+        "5": {
+          "weighted_macro_f1": 0.3636611589404592
+        },
+        "10": {
+          "weighted_macro_f1": 0.35844936367815705
+        },
+        "20": {
+          "weighted_macro_f1": 0.34250454967580507
+        }
+      }
+    },
+    "reranked_dev_v34e3_plus_aws_v24": {
+      "label": "reranked_dev_v34e3_plus_aws_v24",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_v34e3_plus_aws_v24.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.15658026115038096
+        },
+        "2": {
+          "weighted_macro_f1": 0.23165291127344687
+        },
+        "3": {
+          "weighted_macro_f1": 0.2703106209154503
+        },
+        "5": {
+          "weighted_macro_f1": 0.31050011238425146
+        },
+        "10": {
+          "weighted_macro_f1": 0.33956080270675026
+        },
+        "20": {
+          "weighted_macro_f1": 0.3415416420892644
+        }
+      }
+    },
+    "reranked_dev_v34e3_plus_aws_v24_aws_anchor": {
+      "label": "reranked_dev_v34e3_plus_aws_v24_aws_anchor",
+      "system_type": "reranked_multik",
+      "leakage_status": "unknown",
+      "source_file": "reranked_dev_v34e3_plus_aws_v24_aws_anchor.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.2984824273593105
+        },
+        "2": {
+          "weighted_macro_f1": 0.3389258038961125
+        },
+        "3": {
+          "weighted_macro_f1": 0.3524783970159401
+        },
+        "5": {
+          "weighted_macro_f1": 0.36195127951743766
+        },
+        "10": {
+          "weighted_macro_f1": 0.3602589550004541
+        },
+        "20": {
+          "weighted_macro_f1": 0.345972691270172
+        }
+      }
+    },
+    "reranked_dev_v34e3_plus_base_geo_k3_a05": {
+      "label": "reranked_dev_v34e3_plus_base_geo_k3_a05",
+      "system_type": "reranked_multik",
+      "leakage_status": "diagnostic_leaky",
+      "source_file": "reranked_dev_v34e3_plus_base_geo_k3_a05.json",
+      "by_k": {
+        "1": {
+          "weighted_macro_f1": 0.20919473574797928
+        },
+        "2": {
+          "weighted_macro_f1": 0.2947072648317904
+        },
+        "3": {
+          "weighted_macro_f1": 0.3326501648176563
+        },
+        "5": {
+          "weighted_macro_f1": 0.36537266586758305
+        },
+        "10": {
+          "weighted_macro_f1": 0.3558650919060217
+        },
+        "20": {
+          "weighted_macro_f1": 0.3184417815995571
+        }
+      }
+    }
+  }
+}

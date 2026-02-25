@@ -1,0 +1,202 @@
+[
+  {
+    "bundle": "best_model_worst1_5",
+    "prompt_id": "prompt_6bf3ba8f17283622fd12acbe46207a11",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 1.0,
+    "english_prompt": "at your house, you have yellow pants.",
+    "hu_example": "a házadnál, sárga nadrágod van.",
+    "back_en_example": "at your house, you have yellow pants."
+  },
+  {
+    "bundle": "best_model_worst1_5",
+    "prompt_id": "prompt_e86b30fcba71b9f43600de123632970b",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 1.0,
+    "english_prompt": "we drink our tea with sugar.",
+    "hu_example": "cukorral iszunk a teánk.",
+    "back_en_example": "we drink our tea with sugar."
+  },
+  {
+    "bundle": "best_model_worst6_10",
+    "prompt_id": "prompt_2072edd1a4f6fc817b9ba5615a5350d0",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 1.0,
+    "english_prompt": "the parties are private.",
+    "hu_example": "A pártok privát jellegűek.",
+    "back_en_example": "The parties are private."
+  },
+  {
+    "bundle": "best_model_worst6_10",
+    "prompt_id": "prompt_c90484fbabf59876edea55492b1c300e",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 1.0,
+    "english_prompt": "there are six players in a volleyball team.",
+    "hu_example": "Hat játékos van egy röplapú csapatban.",
+    "back_en_example": "There are six players in a volleyball team."
+  },
+  {
+    "bundle": "base_raw_worst1_5",
+    "prompt_id": "prompt_e86b30fcba71b9f43600de123632970b",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 1.0,
+    "english_prompt": "we drink our tea with sugar.",
+    "hu_example": "A teánkat cukorral iszunk.",
+    "back_en_example": "We drink our tea with sugar."
+  },
+  {
+    "bundle": "base_raw_worst6_10",
+    "prompt_id": "prompt_e500491649aa77c92aa416113f77c0e5",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 1.0,
+    "english_prompt": "i have few blue plates.",
+    "hu_example": "Kevés kék tányérem van.",
+    "back_en_example": "I have few blue plates."
+  },
+  {
+    "bundle": "base_raw_worst1_5",
+    "prompt_id": "prompt_97e7b126ddf3ede881526f8dbb11a626",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 0.9333333333333333,
+    "english_prompt": "we eat half of the bread.",
+    "hu_example": "A kenyér felét eszünk.",
+    "back_en_example": "We eat half the bread."
+  },
+  {
+    "bundle": "best_model_worst1_5",
+    "prompt_id": "prompt_4115c7e31939c2f8bc92829047061c3c",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 0.8837209302325582,
+    "english_prompt": "he is with the architect.",
+    "hu_example": "Ő az építész.",
+    "back_en_example": "He is the architect."
+  },
+  {
+    "bundle": "best_model_worst6_10",
+    "prompt_id": "prompt_4274a17d2eb886b3643d312eaab81917",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 0.875,
+    "english_prompt": "he has the lunch.",
+    "hu_example": "van őneki az ebéd.",
+    "back_en_example": "he has his lunch."
+  },
+  {
+    "bundle": "base_raw_worst1_5",
+    "prompt_id": "prompt_6bf3ba8f17283622fd12acbe46207a11",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 1.0,
+    "best_non_gold_seq": 0.8387096774193549,
+    "english_prompt": "at your house, you have yellow pants.",
+    "hu_example": "A házadban sárga nadrág van.",
+    "back_en_example": "Your house has yellow pants."
+  },
+  {
+    "bundle": "base_raw_worst1_5",
+    "prompt_id": "prompt_1b93d925a994714583c0904aca15934c",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.75,
+    "best_non_gold_seq": 0.9411764705882353,
+    "english_prompt": "that team has a good coach.",
+    "hu_example": "A csapatnak jó edzője van.",
+    "back_en_example": "The team has a good coach."
+  },
+  {
+    "bundle": "best_model_worst6_10",
+    "prompt_id": "prompt_010ee99182ff6cd449e06343514bf042",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.75,
+    "best_non_gold_seq": 0.9166666666666666,
+    "english_prompt": "the hat fits him perfectly.",
+    "hu_example": "A kalap tökéletesen illik hozzá.",
+    "back_en_example": "The hat fits perfectly."
+  },
+  {
+    "bundle": "best_model_worst1_5",
+    "prompt_id": "prompt_62815c82e7736b229614a003651de170",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.5,
+    "best_non_gold_seq": 0.9761904761904762,
+    "english_prompt": "the organization has different departments.",
+    "hu_example": "a szervezet különböző szervezeti egységekkel rendelkezik.",
+    "back_en_example": "the organisation has different departments."
+  },
+  {
+    "bundle": "base_raw_worst6_10",
+    "prompt_id": "prompt_0b09e786f35933566e82d4994aa54f55",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.5,
+    "best_non_gold_seq": 0.8695652173913043,
+    "english_prompt": "he would believe you.",
+    "hu_example": "Hitt volna neked.",
+    "back_en_example": "He would have believed you."
+  },
+  {
+    "bundle": "best_model_worst6_10",
+    "prompt_id": "prompt_cd4e03d94efa6c1d20cc8552fcde4698",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.5,
+    "best_non_gold_seq": 0.8518518518518519,
+    "english_prompt": "it is a measure of length.",
+    "hu_example": "ez a hosszúság mértéke.",
+    "back_en_example": "this is the measure of length."
+  },
+  {
+    "bundle": "base_raw_worst6_10",
+    "prompt_id": "prompt_7f3c9d2fa3cb45c885f3050dad06eb38",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.5,
+    "best_non_gold_seq": 0.8235294117647058,
+    "english_prompt": "which hats are red?",
+    "hu_example": "Melyik kalap piros?",
+    "back_en_example": "Which hat is red?"
+  },
+  {
+    "bundle": "base_raw_worst6_10",
+    "prompt_id": "prompt_4870ac22c2d52d478c3a09fbe60f99aa",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.5,
+    "best_non_gold_seq": 0.6875,
+    "english_prompt": "i am twenty.",
+    "hu_example": "Húsz éves vagyok.",
+    "back_en_example": "I am twenty years old."
+  },
+  {
+    "bundle": "base_raw_worst1_5",
+    "prompt_id": "prompt_bd9bcce016e19c478ca183eb94ac3edc",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.42857142857142855,
+    "best_non_gold_seq": 0.696969696969697,
+    "english_prompt": "he would like for her to live in europe.",
+    "hu_example": "Szerette volna, hogy Európában éljen.",
+    "back_en_example": "He wanted to live in Europe."
+  },
+  {
+    "bundle": "base_raw_worst6_10",
+    "prompt_id": "prompt_4115c7e31939c2f8bc92829047061c3c",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.3333333333333333,
+    "best_non_gold_seq": 0.9166666666666666,
+    "english_prompt": "he is with the architect.",
+    "hu_example": "Az építészével van.",
+    "back_en_example": "It is with the architect."
+  },
+  {
+    "bundle": "best_model_worst1_5",
+    "prompt_id": "prompt_a18e17e18c132825f2ea2e054c16f871",
+    "prompt_f1": 0.0,
+    "best_non_gold_jaccard": 0.0,
+    "best_non_gold_seq": 0.8484848484848485,
+    "english_prompt": "his neighborhood",
+    "hu_example": "a szomszédságát",
+    "back_en_example": "the neighbourhood"
+  }
+]

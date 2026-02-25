@@ -1,0 +1,383 @@
+[
+  {
+    "prompt_id": "prompt_6bf3ba8f17283622fd12acbe46207a11",
+    "english_prompt": "at your house, you have yellow pants.",
+    "aws_hu": "a házadnál, sárga nadrágod van.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "a házadnál, sárga nadrágod van.",
+        "back_en": "at your house, you have yellow pants.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a házadnál van sárga nadrágod.",
+        "back_en": "you have yellow pants at your house.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a házadnál van neked sárga nadrágod.",
+        "back_en": "you have yellow pants at your house.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a te házadnál van sárga nadrágod.",
+        "back_en": "you have yellow pants at your house.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a házadnál van egy sárga nadrágod.",
+        "back_en": "you have a pair of yellow pants at your house.",
+        "matches_gold": false
+      }
+    ],
+    "top_gold": [
+      {
+        "hu": "van otthon sárga nadrágod.",
+        "weight": 0.03773584905660378
+      },
+      {
+        "hu": "a házukban önöknek van citromsárga nadrágja.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "neked van a házadban citromsárga nadrágod.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "a házadban vannak neked sárga nadrágjaid.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "a házában önnek van sárga nadrágja.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "a házadban van neked citromsárga nadrágod.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "a házadban citromsárga nadrágod van.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "neked van sárga nadrágod a házadban.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "otthon neked van sárga nadrágod.",
+        "weight": 0.01886792452830189
+      },
+      {
+        "hu": "a házadban vannak sárga nadrágjaid.",
+        "weight": 0.01886792452830189
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_e86b30fcba71b9f43600de123632970b",
+    "english_prompt": "we drink our tea with sugar.",
+    "aws_hu": "cukorral inni a teát.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "cukorral inni a teát.",
+        "back_en": "drink the tea with sugar.",
+        "matches_gold": false
+      },
+      {
+        "hu": "cukorral iszunk a teánk.",
+        "back_en": "we drink our tea with sugar.",
+        "matches_gold": false
+      },
+      {
+        "hu": "cukorral iszunk a teánkat.",
+        "back_en": "we drink our tea with sugar.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a teánk cukorral iszunk.",
+        "back_en": "our tea is drunk with sugar.",
+        "matches_gold": false
+      },
+      {
+        "hu": "cukorral iszunk a mi teánk.",
+        "back_en": "with sugar is our tea.",
+        "matches_gold": false
+      }
+    ],
+    "top_gold": [
+      {
+        "hu": "cukorral isszuk a teánkat.",
+        "weight": 0.1278726221159797
+      },
+      {
+        "hu": "a teánkat cukorral isszuk.",
+        "weight": 0.08991348023769138
+      },
+      {
+        "hu": "megisszuk a teánkat cukorral.",
+        "weight": 0.07567449840345526
+      },
+      {
+        "hu": "isszuk a teánkat cukorral.",
+        "weight": 0.04929344645880512
+      },
+      {
+        "hu": "mi cukorral isszuk a teánkat.",
+        "weight": 0.04929344645880512
+      },
+      {
+        "hu": "a teánkat isszuk cukorral.",
+        "weight": 0.03286229763920341
+      },
+      {
+        "hu": "isszuk a mi teánkat cukorral.",
+        "weight": 0.03286229763920341
+      },
+      {
+        "hu": "mi isszuk a teánkat cukorral.",
+        "weight": 0.03286229763920341
+      },
+      {
+        "hu": "mi a teánkat cukorral isszuk.",
+        "weight": 0.03286229763920341
+      },
+      {
+        "hu": "mi isszuk cukorral a teánk.",
+        "weight": 0.016431148819601706
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_4115c7e31939c2f8bc92829047061c3c",
+    "english_prompt": "he is with the architect.",
+    "aws_hu": "Ő az építész.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "Ő az építész.",
+        "back_en": "He is the architect.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az építésznél van.",
+        "back_en": "is with the architect.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az építészhez van.",
+        "back_en": "is for the architect.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az építésznél van ő.",
+        "back_en": "the architect has him.",
+        "matches_gold": false
+      },
+      {
+        "hu": "az építészhez ő van.",
+        "back_en": "to the architect he is.",
+        "matches_gold": false
+      }
+    ],
+    "top_gold": [
+      {
+        "hu": "az építésszel van.",
+        "weight": 0.3392938294267764
+      },
+      {
+        "hu": "ő az építésszel van.",
+        "weight": 0.24185745342177997
+      },
+      {
+        "hu": "ő az építészmérnökkel van.",
+        "weight": 0.0755510367436676
+      },
+      {
+        "hu": "ő van az építésszel.",
+        "weight": 0.06676169310343691
+      },
+      {
+        "hu": "ő együtt van az építésszel.",
+        "weight": 0.027653598730433892
+      },
+      {
+        "hu": "együtt van az építészmérnökkel.",
+        "weight": 0.027653598730433892
+      },
+      {
+        "hu": "együtt van az építésszel.",
+        "weight": 0.027653598730433892
+      },
+      {
+        "hu": "ő van az építészmérnökkel.",
+        "weight": 0.027653598730433892
+      },
+      {
+        "hu": "ő együtt van az építészmérnökkel.",
+        "weight": 0.027653598730433892
+      },
+      {
+        "hu": "az építésszel ő van.",
+        "weight": 0.027653598730433892
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_62815c82e7736b229614a003651de170",
+    "english_prompt": "the organization has different departments.",
+    "aws_hu": "a szervezet különböző szervezeti egységekkel rendelkezik.",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "a szervezet különböző szervezeti egységekkel rendelkezik.",
+        "back_en": "the organisation has different departments.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szervezetnek különböző osztályjai vannak.",
+        "back_en": "the organisation has different departments.",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szervezetnek különféle osztályjai vannak.",
+        "back_en": "the organisation has different departments.",
+        "matches_gold": false
+      },
+      {
+        "hu": "A szervezetnek más szakaszok vannak.",
+        "back_en": "The organisation has different stages.",
+        "matches_gold": false
+      },
+      {
+        "hu": "A szervezetnek más osztálya van.",
+        "back_en": "The organisation has a different department.",
+        "matches_gold": false
+      }
+    ],
+    "top_gold": [
+      {
+        "hu": "a szervezetnek különböző részlegei vannak.",
+        "weight": 0.266059178619103
+      },
+      {
+        "hu": "a szervezetnek különböző osztályai vannak.",
+        "weight": 0.09415363557999412
+      },
+      {
+        "hu": "a szervezet különböző részlegekből áll.",
+        "weight": 0.05350407729328561
+      },
+      {
+        "hu": "a szervezetnek különféle részlegei vannak.",
+        "weight": 0.05350407729328561
+      },
+      {
+        "hu": "a szervezetnek vannak különböző részlegei.",
+        "weight": 0.049212589240345134
+      },
+      {
+        "hu": "a szervezetnek más részlegei vannak.",
+        "weight": 0.04159809732334649
+      },
+      {
+        "hu": "a szervezetnek vannak más részlegei.",
+        "weight": 0.04159809732334649
+      },
+      {
+        "hu": "a szervezetnek különféle osztályai vannak.",
+        "weight": 0.038563557019731236
+      },
+      {
+        "hu": "a szervezetnek eltérő részlegei vannak.",
+        "weight": 0.03511919903282838
+      },
+      {
+        "hu": "a szervezetnek vannak különböző osztályai.",
+        "weight": 0.031033554123461104
+      }
+    ]
+  },
+  {
+    "prompt_id": "prompt_a18e17e18c132825f2ea2e054c16f871",
+    "english_prompt": "his neighborhood",
+    "aws_hu": "a szomszédságában",
+    "prompt_f1": 0.0,
+    "prompt_weighted_recall": 0.0,
+    "prompt_precision": 0.0,
+    "predictions": [
+      {
+        "hu": "a szomszédságában",
+        "back_en": "in the neighbourhood",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szomszédságát",
+        "back_en": "the neighbourhood",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szomszédság",
+        "back_en": "the neighbourhood",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szomszédságának",
+        "back_en": "for your neighbourhood",
+        "matches_gold": false
+      },
+      {
+        "hu": "a szomszédságja",
+        "back_en": "your neighbourhood",
+        "matches_gold": false
+      }
+    ],
+    "top_gold": [
+      {
+        "hu": "a környéke",
+        "weight": 0.2736364048050366
+      },
+      {
+        "hu": "az ő környéke",
+        "weight": 0.24695691709895315
+      },
+      {
+        "hu": "a szomszédsága",
+        "weight": 0.14102353054133465
+      },
+      {
+        "hu": "környéke",
+        "weight": 0.10642871829295392
+      },
+      {
+        "hu": "az ő szomszédsága",
+        "weight": 0.06137239765004434
+      },
+      {
+        "hu": "a környezete",
+        "weight": 0.05630113500650843
+      },
+      {
+        "hu": "szomszédsága",
+        "weight": 0.052989371929370886
+      },
+      {
+        "hu": "az ő környezete",
+        "weight": 0.03958807527365692
+      },
+      {
+        "hu": "környezete",
+        "weight": 0.021703449402141157
+      }
+    ]
+  }
+]

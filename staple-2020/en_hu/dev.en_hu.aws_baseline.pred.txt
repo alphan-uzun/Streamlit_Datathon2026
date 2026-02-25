@@ -1,0 +1,1500 @@
+prompt_bde43302e530441c0afdea532cbbd419|i think about her night and day.
+Éjjel-nappal gondolok rá.
+
+prompt_1b578a1e8fca427f4912b95acc612a1d|he cooks the food.
+Ő főzi az ételt.
+
+prompt_67a64da31112e9cad6ad111de1e3bf3b|i have a flight to germany.
+Van egy gépem Németországba.
+
+prompt_19ac94e820afbaae5343d2cfe97d4ec4|the third apple is red.
+a harmadik alma piros.
+
+prompt_e27491a7fdb66181133cf049f16687cf|i wish to be a famous actor.
+Híres színész akarok lenni.
+
+prompt_992d18ade3e8fd54857ed9b50967f713|the girls' children
+a lányok gyermekei
+
+prompt_d5fefcf648c21583b88a5eb9e48132f0|i play in a band.
+Egy zenekarban játszom.
+
+prompt_23c8d435296b9b8d151806e3b428167e|how sad is he?
+Mennyire szomorú?
+
+prompt_b22b37b588bec311f305ae92f737251f|the dog walks from there.
+A kutya onnan sétál.
+
+prompt_898e3ec89bd72177442858319a1efb2a|the roof is red.
+A tető vörös.
+
+prompt_e3dc532efd77560b383b4d45d963921a|our car is green.
+A kocsink zöld.
+
+prompt_28589b80d85ee6c5115503dfc9148a2d|is your uncle still abroad?
+A nagybátyád még mindig külföldön van?
+
+prompt_a4010540497670e0043da013f277f7bd|i eat a red strawberry.
+Egy piros epret eszem.
+
+prompt_1ec113a7bf0c69422eb8537b7fd961c1|the boys eat the meal.
+A fiúk megeszik az ételt.
+
+prompt_f50a76eb1abf908a9f49e98c96cf7175|do you have one girlfriend?
+Van egy barátnőd?
+
+prompt_46c47230891b9c6c785b38cfb1bc58c3|he is a modern man.
+Ő egy modern ember.
+
+prompt_8401f5cf8d4b642af5ccda1ae07acd9f|i have lots of books.
+Sok könyvem van.
+
+prompt_b0890d2c800629fa451f350b045de669|the actress has beautiful eyes.
+a színésznőnek gyönyörű szeme van.
+
+prompt_2a6fb7267c506533e9ec2288aa4149aa|we put out the fire.
+eloltottuk a tüzet.
+
+prompt_91aad11698b2eda4eecbef66e65184c3|what is the weight?
+Mi a súlya?
+
+prompt_e0ca071200e5dd7f1f18f2f8006885fb|a man eats an egg.
+egy férfi megeszi a tojást.
+
+prompt_d4dff4f562f29641d8333912f828e673|they write.
+Írnak.
+
+prompt_fb0d11d86446e7b8a74a79e29c526b48|she has no arguments.
+Nincs vitája.
+
+prompt_f21220cd7a82afa546ba51b07e2eaf52|the knife cuts cheese easily.
+A kés könnyedén vágja a sajtot.
+
+prompt_36caaaaff9bb6c33b7f8d4ddf80bc936|i have reduced the amount of sugar.
+Csökkentettem a cukor mennyiségét.
+
+prompt_e6ba1f258cb386e7333d5b852761de33|they are going to finish reading.
+befejezik az olvasást.
+
+prompt_0e0620336882df279c8dc48b47d97317|february is bad for the business.
+február rossz az üzletnek.
+
+prompt_80edcc970107843d13b5cfbcac4ce429|we are going to receive the pictures.
+megkapjuk a képeket.
+
+prompt_8a797a3fd155bc37466730db1c9e72e7|he speaks english as well as french.
+angolul és franciául is beszél.
+
+prompt_5003137f9be188e5baa024468642b09c|the duck drinks the water.
+A kacsa megissza a vizet.
+
+prompt_56fdfdf41279bcd6d4d02eb222bf15ad|the cat drinks milk.
+A macska tejet iszik.
+
+prompt_776350520cb9844e7b681dc1afe9ac14|i would like something else.
+Valami mást szeretnék.
+
+prompt_ca40c28194c469060d25defcb011f94f|i will eat at that time.
+Akkor enni fogok.
+
+prompt_da7fee4859be701b3ba9fef8b17e4493|i pay for the museums.
+Én fizetek a múzeumokért.
+
+prompt_9ea87918a5df53ca072625f6826090d6|she appeared in my house.
+megjelent a házamban.
+
+prompt_a83bedd70f465af32dd8c77006e4cd31|mother, father, siblings
+anya, apa, testvérek
+
+prompt_cbaefcab4bb97dd37cc34e071d12e8c2|what has he written?
+Mit írt?
+
+prompt_e5b8090cfcf80d98e3db0b41a836df08|i have an objective.
+Van egy célom.
+
+prompt_0517e9173cabcd9ab002ee5f91326a8c|your lips are very red.
+Az ajkaid nagyon pirosak.
+
+prompt_99cd2ff712120cd0b080fcd254af6c45|the man walks along the beach.
+A férfi sétál a parton.
+
+prompt_696d4ee52cff417c921b808a1ba76c61|please drink the water.
+Kérem, igya meg a vizet.
+
+prompt_ff337d303805822b0ca04b3e9f96a204|do you have your books?
+Megvannak a könyveid?
+
+prompt_60a7ac969d79a4c879886598fa132efb|the tourists entered the museum.
+A turisták beléptek a múzeumba.
+
+prompt_966950004041ee64ade0f65da16b5d9e|a community is important.
+a közösség fontos.
+
+prompt_4fc1abfaffac634e3336fd73a2ec5362|no, i do not have it with me.
+Nem, nincs nálam.
+
+prompt_66624b7530a5ce35777b90fc63629f8c|i study english.
+Angolul tanulok.
+
+prompt_45c3989534294f1ee5d40bc2efa0b40b|he is a military doctor.
+Ő egy katonai orvos.
+
+prompt_808e50ac08fb2bd00993383dd9f6106b|how are you today?
+Hogy vagy ma?
+
+prompt_378df93052eeaeb5dabd4c3f77a702a9|it will be enough.
+elég lesz.
+
+prompt_40b4891925dbe42505030aa94cd8fc9c|the game was excellent.
+A játék kiváló volt.
+
+prompt_320788ecfde6522b0d13eed0401489a5|i swim in milk.
+A tejben úszom.
+
+prompt_9b38597e01bf5090387ff73fc60372c0|he sees himself in the mirror.
+Látja magát a tükörben.
+
+prompt_126bfdf5cf29792c9bb55ef2bb86bcd1|a juice?
+Gyümölcslé?
+
+prompt_1e274b7916d78b39d4e65e8a21ac9d9d|sleep more.
+Aludj többet.
+
+prompt_c1970521f7bd0e03b8b83c3d13923414|our cat eats cheese.
+A macskánk sajtot eszik.
+
+prompt_48263c6a2472982f23e9c06a529b63c7|from child to man.
+gyermekről emberre.
+
+prompt_ec1388b6087378c7caa231955719f535|he speaks with the guard.
+Beszél az őrrel.
+
+prompt_b163a67df096664c12288f52f8ff0085|i have a theory.
+Van egy elméletem.
+
+prompt_769fe2d73bde2b7003c8c26d6965e7a6|the phrase is wrong.
+A kifejezés rossz.
+
+prompt_631af28824506dadb577b6979c3d9718|she always believes me.
+Mindig hisz nekem.
+
+prompt_cf8f9e58746fe7aa59140fbdfa277fc6|where are the normal books?
+Hol vannak a szokásos könyvek?
+
+prompt_0ad53f0f39fb10a88a0db22a56e74490|thanks and good night!
+Köszönöm és jó éjszakát!
+
+prompt_d10237ad37b38850697212a1923e786a|a green-white dress
+zöld-fehér ruha
+
+prompt_b2a7abceed87dc150adf8b657654cbf3|i have a relationship.
+Van egy kapcsolatom.
+
+prompt_ad196ef80913d7a46b417ec9f53cbdc2|my wife has received a promotion.
+A feleségem előléptetést kapott.
+
+prompt_4d3f62bf7cb670405244b80c7ba88795|i will arrive saturday.
+Szombaton érkezek.
+
+prompt_9ed525024f47ede378a77305893ba666|how do you remember that?
+Hogy emlékszel erre?
+
+prompt_e83b46b70a2f8bbc06f5193616fadb11|she sees herself in the mirror.
+Látja magát a tükörben.
+
+prompt_26646ecd229185068ae564918bfe49a9|we use them.
+Használjuk őket.
+
+prompt_56b6d864322b757da6229bc909ff53ab|she has lost all her money.
+Elvesztette az összes pénzét.
+
+prompt_5a18ed7a3a48921f7c2333510a178fb9|the girl has a wooden duck.
+a lánynak van egy fából készült kacsa.
+
+prompt_2f60b525a1ce95efd9e261b63ab68979|yes, he seems ill.
+Igen, betegnek tűnik.
+
+prompt_ecdad813420c875e75198f45dbdd50f7|the boy plays with the wooden horse.
+A fiú játszik a fa lóval.
+
+prompt_bda683c6a46f9fde544d7e09bef6f634|i offer her breakfast.
+Reggelit kínálok neki.
+
+prompt_f8b5f451cdf0a1fe11dbbe92044f2329|i am the author.
+Én vagyok a szerző.
+
+prompt_6b4a7b2eefcdf1015bdab03844419ded|she finds a job in the police.
+Munkát talál a rendőrségen.
+
+prompt_c5cf0ac984fecb8c48f224e9974f010a|i have a musical instrument.
+Van egy hangszerem.
+
+prompt_7539a1d113549719da1eca970a756ed4|she swims while i sleep.
+Ő úszik, amíg én alszom.
+
+prompt_74312da40f38af3e379c89eeb256d907|the match was very interesting.
+A mérkőzés nagyon érdekes volt.
+
+prompt_706b18d929b8061855b41d5ac4aea945|the children see the rain.
+a gyerekek látják az esőt.
+
+prompt_d83469a8141f0c7b4810e4d8b5febf28|it is sad for us.
+Szomorú számunkra.
+
+prompt_ac0a8491f0b027b341cf51ecfa41f1a5|this landscape is very different.
+ez a táj nagyon más.
+
+prompt_8a9c19e18addf3fb35008ddc5f5727ce|where and with whom?
+Hol és kivel?
+
+prompt_4abdb1307aa125de224889b54455c9b6|we read the texts.
+Olvastuk az üzeneteket.
+
+prompt_473ebdf3b11d279bd31eb8edb0e9f4d0|i tried again.
+Újra megpróbáltam.
+
+prompt_e9accd0d69151d941785993164af9917|i have your daughter.
+Nálam van a lánya.
+
+prompt_5c815df72c81539a93a8fa40bb448715|we are going to assume that she ate.
+Feltételezzük, hogy evett.
+
+prompt_805fd7b07009aec779be813760a26f52|i do not have soap.
+Nincs szappan.
+
+prompt_398b786f50dc1fce3f907601823841a3|men eat bread.
+A férfiak kenyeret esznek.
+
+prompt_f4605462b6a375107909f5081d2cdd42|why is the tomato on the ground?
+Miért van a paradicsom a földön?
+
+prompt_bcbc969340ee835c396f1d95b0743010|generally it is green.
+általában zöld.
+
+prompt_0ebd5954998ed6125fc809eca0f1ac5c|the distance was short.
+A távolság rövid volt.
+
+prompt_f43885e92235239d7aa7135a7b6881f4|the cat eats the bird.
+a macska megeszi a madarat.
+
+prompt_5aa855c25e69c0fb9f55e8436de890c6|not you.
+Nem te.
+
+prompt_9cf1059b20b7c0c592b1b6b842daed02|only two doors are yellow.
+Csak két ajtó sárga.
+
+prompt_eafeee262b7a041b2d44171d338c696f|i have milk and wine.
+Van tej és bor.
+
+prompt_daade0ea7b644f8b51b30d4f92fd67bb|you make a sandwich.
+Csinálsz egy szendvicset.
+
+prompt_6701980effa74cb96000a5857f9c48ef|the ducks are alive.
+A kacsák életben vannak.
+
+prompt_41b7ecdb8563aa413ed8a8d2d00fe506|he played twice.
+Kétszer játszott.
+
+prompt_5a827e650079a8bb6c786711c2d1da4a|no tax
+nincs adó
+
+prompt_ba2457f01678b2c07ec66a0d36b1e4c1|he loved his daughters.
+Szerette a lányait.
+
+prompt_79cdceb7b50e270d91972092ed0fa7c9|i know you.
+Ismerlek.
+
+prompt_a9223601b90779fd7493e17dde121b16|our dresses
+Ruháink
+
+prompt_145787264bb5b62c6180c72b0af76484|i was eating breakfast when i saw the spider.
+Reggeliztem, amikor megláttam a pókot.
+
+prompt_0213490a7ef05b2f0b305ab26d8edb45|yesterday, we did not drink wine.
+Tegnap nem ittunk bort.
+
+prompt_b3d841d159cb6b39be91dd0d2c3582c2|are roses pink ?
+Rózsaszín rózsák?
+
+prompt_ce3eafdc00cd07a71fa9d5c62c6ed741|we are going to go home on thursday.
+Csütörtökön hazamegyünk.
+
+prompt_6f11fba757265a83910f8a6076c2fa7d|she felt well.
+Jól érezte magát.
+
+prompt_d86062eb4fdf44727a5ed46b87f1edfe|the pants are brown.
+A nadrág barna.
+
+prompt_9d9dd563fcd6103e16781760d20b56af|i will know when.
+Tudni fogom, mikor.
+
+prompt_30bfa5db808e3284e6d046238a5e5f2d|the woman is a tennis coach.
+A nő egy teniszedző.
+
+prompt_df74903e953570131082ed606b89a229|we have children.
+Vannak gyerekeink.
+
+prompt_042e5a185fca90a54d4ce2dcded66126|he talked to us!
+Beszélt velünk!
+
+prompt_f8a78e2b1cfcdf809da05fbffae884b4|we eat pasta.
+Tésztát eszünk.
+
+prompt_56e0408401499f60ab5659cd32f37205|on thursday we drink beer.
+csütörtökön sört iszunk.
+
+prompt_ee3788c3e8c3fec17fbcd8d07bc857b6|do you have time?
+Van időd?
+
+prompt_f573d6f55525602f1bfa89634e8d3ac9|we go to the sea.
+megyünk a tengerhez.
+
+prompt_228bcb10cdb3d782fceaaf9eddcf2b15|she drinks beer.
+Sört iszik.
+
+prompt_c85c92bfa7e893893e0d0bc393ca50ab|the child's mouth is open.
+a gyermek szája nyitva van.
+
+prompt_32ae575b45a469d2e3e43d7faa545bcf|the drugs made him different.
+A drogok miatt más lett.
+
+prompt_63716a41cb031962bda29ea330c36281|she is in debt to me.
+adóssága van nekem.
+
+prompt_58cb468921597de23ecf9cc7b13ba3cc|i see a film.
+Látok egy filmet.
+
+prompt_3401c2af9d51f98cacaef56a74f5cf3c|only one generation
+csak egy generáció
+
+prompt_cecd31117b85b5462fcbcb4c63932737|we need you.
+Szükségünk van rád.
+
+prompt_e9fc2110edccf8e11681a9cb2b8a9b61|the woman and the child have dresses.
+a nő és a gyermek ruhái vannak.
+
+prompt_5976f00b9f7afa8a5746a5cf68ff57b3|i drink my tea.
+Megiszom a teámat.
+
+prompt_64ef4827d27d944aa4a2a8bb08ba58e3|fred sleeps on the bed.
+Fred az ágyon alszik.
+
+prompt_0df4cf260f71139139a60d2c0b63d95d|i have children.
+Gyerekeim vannak.
+
+prompt_1d64ddccd8955ee6b7426d1e8c1691e3|i have wine.
+Van borom.
+
+prompt_e8839dd3365c9a82a941ad7974eabfb0|call your daughter!
+Hívd fel a lányodat!
+
+prompt_e46eba9eee48693aecb9e898ffae4e06|take care of yourself.
+Vigyázz magadra.
+
+prompt_11f3b4bf54afcdb22830226648390bec|the property is mine.
+Az ingatlan az enyém.
+
+prompt_0f30a4aaf3d458ec17f1cc515b850289|i am my parents' daughter.
+A szüleim lánya vagyok.
+
+prompt_31be9ed733ef83dab822aaed25977ef2|i have gone for a walk.
+Elmentem sétálni.
+
+prompt_86e3da46a6334d15d9e5a9b34b6ce6ef|they died.
+Meghaltak.
+
+prompt_c22134424870d94acba1f6bfab3db8ab|last week's edition
+utolsó heti kiadás
+
+prompt_fb5e188ff0c4e37e13904e6d003ad14d|we read newspapers.
+Olvasunk újságot.
+
+prompt_caa8b2a47177e7ba7f677554b5f2651c|the dog drinks its water.
+A kutya megissza a vizet.
+
+prompt_72449daabeace2880bb3887df5c985a9|not recently.
+Mostanában nem.
+
+prompt_3215f615fbf165b9757e38f1bcd2fdaf|but is it important for our community?
+de fontos a közösségünk számára?
+
+prompt_00dec02b2c31ff4c10cdf2f506bc98f4|i want to eat, for instance cheese.
+Szeretnék enni, például sajtot.
+
+prompt_64e36b9a1af3b7ce1bb1d3039cad13f3|i need a razor.
+Kell egy borotva.
+
+prompt_3f02142c97eeb48493c010892a83a141|the communication
+a kommunikáció
+
+prompt_03797989086cdd8ce188cfbf83c3af24|i believe his words.
+Hiszek a szavainak.
+
+prompt_4279f5b2aee51ecabcec05db5fded155|i make a sandwich.
+Csinálok egy szendvicset.
+
+prompt_742ba96c75a5fa0d4067883a74ce430a|the hat is too big for my head.
+A kalap túl nagy a fejemnek.
+
+prompt_5637c19fb6bb50cd26a3287120c48b32|she likes to build houses.
+Szeret házakat építeni.
+
+prompt_726df48064c65c7af7709a60ee6404f9|the milk is for the morning.
+A tej reggelre van.
+
+prompt_1221519248658e48781af405e3a3f18b|your sandwiches
+a szendvicseket
+
+prompt_fced3a8c40ef255bf9d0906b16bc7f15|i need a pen.
+Kell egy toll.
+
+prompt_53212dc243a571c8941f6ebfdfeb25f9|the dog goes towards the cat.
+a kutya a macska felé megy.
+
+prompt_af45a2b6acfbb5721cd3e4fa3dd65760|dinner is a meal.
+A vacsora egy vacsora.
+
+prompt_61aa9dd8a667b7d50a3c357057555b0e|they need to apply.
+kell alkalmazni.
+
+prompt_5bde5afe316fae79d9b891a9116779bb|we always make chicken with rice.
+mindig csirkét készítünk rizzsel.
+
+prompt_5bcae2475d5da00428f1c2caa30f5691|the departure is tomorrow.
+Holnap indulunk.
+
+prompt_962f0cdf5a21de8e1f9a2e5b536862a2|they are very popular.
+nagyon népszerűek.
+
+prompt_3eb3d1b0a7533a668f1478b45fb6d502|he takes a tomato.
+Elvesz egy paradicsomot.
+
+prompt_9359f649240e065e82403b5df3321419|she can wait five minutes.
+Várhat öt percet.
+
+prompt_b58d7d93038b2b827389754b2523c549|she sets the table.
+Ő teríti az asztalt.
+
+prompt_1f3eeecd3dfd54fb335b19848d08917d|when does she come down?
+Mikor jön le?
+
+prompt_5f625974517965269f15b987d94e0d3f|would you take part in the project?
+részt vennél a projektben?
+
+prompt_4f6003a96fc0da4dc2b5e2f3bd4c0e97|save an apple for me.
+Tartogass nekem egy almát.
+
+prompt_e86ccec001748c774b43b1ba42c346bf|he sleeps while i speak.
+Alszik, amíg én beszélek.
+
+prompt_7f8d8a4390ea74eb307a8f3b91e853a2|you eat the apple.
+Megeszed az almát.
+
+prompt_ab0b14efe8455f4adf264514e24689fa|would he answer you?
+Válaszolna neked?
+
+prompt_79a2622b7167cd812ec8ba1d264f4f64|that is my bag.
+Ez az én táskám.
+
+prompt_f93fb399cf0511474615d560d40a0644|my sister is without work.
+A nővérem munka nélkül van.
+
+prompt_564a41d14af41bbe0c1e6864a2566faa|the women are beautiful.
+A nők gyönyörűek.
+
+prompt_25ab6339ab30874e976e2a86f331a262|the duck eats the apple.
+A kacsa megeszi az almát.
+
+prompt_4bb7c8b950b56b78fc2b0419a3e3d261|children's families
+gyermekcsaládok
+
+prompt_321f8a27bae5e71812c35a8a381e7c10|in that country they do not use that expression.
+ebben az országban nem használják ezt a kifejezést.
+
+prompt_16d04a98630003dec560feff03c75f0b|where is your school?
+Hol van az iskolád?
+
+prompt_5ae50f46bdac93a195e2bf976d62b356|he likes beer.
+Szereti a sört.
+
+prompt_83d10d33d12011bb0b65036cba82a52a|how is your mother?
+Hogy van az édesanyja?
+
+prompt_bc20cf170576fba38a121ad03dfe1f54|he is not your uncle.
+Ő nem a nagybátyád.
+
+prompt_e8346301a9ea97b706018f6c68dc072d|i do not want to lose him.
+Nem akarom elveszíteni.
+
+prompt_a2ff7edb82169d47f90282feda74944f|we read the book of the century.
+Olvastuk az évszázad könyvét.
+
+prompt_eb48c23864240b793bd89bf51c2541da|it is going to rain on saturday.
+Szombaton esni fog.
+
+prompt_50674c32eb0af94ce9d8228626632de2|the universe looks black.
+Az univerzum feketének tűnik.
+
+prompt_da76fe3990951b7026dc0163d76d68a8|almost three
+majdnem három
+
+prompt_535b6a02b1d5efb118c3b1f2467bf72f|its english version is perfect.
+angol változata tökéletes.
+
+prompt_6254c4f55a35394fdbb9f55f0973bf6b|i eat dinner.
+Vacsorázni szoktam.
+
+prompt_f80dd29045578458b900fb53f13822ab|which shoes are yours?
+Melyik cipő a tiéd?
+
+prompt_b23f94d5cc6d4d14c9b5d229d003a690|the prince lives in the palace.
+A herceg a palotában él.
+
+prompt_8b19fda44ef5444555727e6863934634|he has a daughter.
+Van egy lánya.
+
+prompt_35ded2f7f9ff92957d75a7f0b732d383|you are a boy, i am a man.
+Te fiú vagy, én férfi vagyok.
+
+prompt_b459dd13538731dd20e32a8fcf658975|i need it.
+Szükségem van rá.
+
+prompt_c17e4853ad9fc3e85a1a486edd6717a4|we do not accept that.
+Ezt nem fogadjuk el.
+
+prompt_e122ffa1de4c5b3eaeda7378ce0d7636|i need a horse.
+Kell egy ló.
+
+prompt_c4ea249bdc76215a5edc26b4f3da0bf4|nothing is more important!
+Semmi sem fontosabb!
+
+prompt_48b9a04d9ae8c00f1932ceaf42b228a9|how does an animal die?
+hogyan hal meg egy állat?
+
+prompt_3199e0375d6227fee1fbef076b5a993d|this is not from our planet.
+Ez nem a mi bolygónkról van.
+
+prompt_f16b57a0b56ce1a028cc3d6507e7b014|i only have a minute.
+Csak egy percem van.
+
+prompt_5c941a412ac7debf3a36143aaf8f4ac6|the bar is full.
+A bár tele van.
+
+prompt_9e5a9af6d895b1c39df0e8923a696dfe|she and he are siblings.
+Ő és ő testvérek.
+
+prompt_9fa210dd5c8ced86cb14b6f6201d9466|our elephants are not white.
+Az elefántok nem fehérek.
+
+prompt_4b24ba10a96ac2e81be8d0daf852b139|you are important.
+Te fontos vagy.
+
+prompt_1e9f90119240c3009f60e4247f88e791|i am saying words.
+Szavakat mondok.
+
+prompt_873b37ff79bff2c19be62302fa43a3ca|he and i see the sky.
+Ő és én látjuk az eget.
+
+prompt_0bf97e64a39cdc8cb338dd0750fc954c|the brown hat is mine.
+A barna kalap az enyém.
+
+prompt_16c529f8fa17a8c6b56f6045f825ef84|the teacher writes with a red pen.
+a tanár piros tollal ír.
+
+prompt_7ca36e2a17d850e96327a429d4d61e38|he would have changed the conditions.
+megváltoztatta volna a feltételeket.
+
+prompt_92e342fd0ec4979c8aa730f6382de60d|when i write, you write.
+Amikor írok, te írsz.
+
+prompt_490bb74b1a59115c589b5b9566a52d2a|you have blue pants.
+Kék nadrágod van.
+
+prompt_8c7e33899cb5ad6d6e97088bd709ab42|she is not a girl.
+Ő nem lány.
+
+prompt_ed02eb6b0185e42002c160ac86eba3fb|today's edition
+a mai kiadás
+
+prompt_7700327e6f14226c667c1bf0c7338e64|where is my office?
+Hol van az irodám?
+
+prompt_febb46e041813da44bc32bdbdc895041|she reads me a book.
+Olvas nekem egy könyvet.
+
+prompt_7d864a099fd426b3ba02c6420773e26b|she drinks water or milk.
+vizet vagy tejet iszik.
+
+prompt_6cd91252855439b1479e36c24b24719a|still you?
+Még mindig te vagy?
+
+prompt_a1b3240e986c8984938fceb47f132f10|the man eats an apple.
+A férfi megeszik egy almát.
+
+prompt_f39f78cee7ad8b91ddc1740ee36b6d9c|she finds the body beautiful.
+Gyönyörűnek találja a testet.
+
+prompt_917211df613ad0e917a463400f321522|i have to be independent.
+Függetlennek kell lennem.
+
+prompt_018b7e2dec5453d833ee6bf35651d682|they need the place.
+Szükségük van a helyre.
+
+prompt_84f4f4f3136085847ee5f8df0f342101|the party is in my neighborhood.
+A buli az én környékemen van.
+
+prompt_724a736846b723e5525381ea3dab1995|we have to go now.
+Most mennünk kell.
+
+prompt_fda054f4f85a23247b185e4135d6569d|the signal
+a jel
+
+prompt_1a741d1f0d8b8c85b54602b1534458c8|yes, please
+Igen, kérlek.
+
+prompt_b37d0f82c01d742dd60ceac7ee682393|we wear dresses.
+Ruhákat hordunk.
+
+prompt_358369bdf8e90f6f608ecb0c9f19f38f|he goes.
+Elmegy.
+
+prompt_b87a22e6995219156df678f48e7389fb|he explained his book.
+Elmagyarázta a könyvét.
+
+prompt_19666f20747be217584ab151cc102c7e|we are without water.
+Víz nélkül vagyunk.
+
+prompt_6b17ca2548f97992369c9aec6679ad5c|i do not have a final answer.
+Nincs végleges válaszom.
+
+prompt_b1eee67d7df4643f50f08d4e85050050|she will touch the fire.
+Meg fogja érinteni a tüzet.
+
+prompt_ee9ce3a8cae99634d9d81468e157d878|he swims like a fish.
+Úgy úszik, mint egy hal.
+
+prompt_a6204bb8f83209a31391a5ac81ff159d|the turtle drinks milk.
+A teknős tejet iszik.
+
+prompt_6b7cf2b459f886b8e20654f2a1a9e9fb|my brother has sand on his shoes.
+A bátyámnak homok van a cipőjén.
+
+prompt_612b79bb5b3bf5c95ea0b78050be2d70|tomorrow is wednesday.
+Holnap szerda van.
+
+prompt_d373a9218e9a240b28b2f795ab3f881b|whose are the shoes?
+Kié a cipő?
+
+prompt_d41238b9d718381a54b20107c935f81f|the order
+a megrendelés
+
+prompt_c0abdaf04015e056a784de744a2982f4|she did not talk to the teacher.
+nem beszélt a tanárral.
+
+prompt_c33e6695b7e75a2a5ec87edec5e5eb1a|the dog felt my hand.
+A kutya érezte a kezem.
+
+prompt_ad36f0524e71c96dcf851467e18dfcbf|my father has a bar.
+Az apámnak van egy bárja.
+
+prompt_e29d790cf6a8f115bfe2c5f859a8c8c5|he writes to the girl.
+ír a lánynak.
+
+prompt_f1e9453980371be1d4013c53ae3f4bfc|does the king have power?
+Van hatalma a királynak?
+
+prompt_ddee44da64f4163f6c4c326652d388a3|they make beer.
+Sört csinálnak.
+
+prompt_3f4c64fa09102eba0840271f21b416fa|there is a volcano in this country.
+van egy vulkán ebben az országban.
+
+prompt_5205a43620fcde0c5ed02aba531f53bd|the results of the analysis arrive today.
+az elemzés eredményei ma érkeznek.
+
+prompt_9465511cc40a8bb708128a72e7efedfe|i do not have practice.
+Nincs gyakorlatom.
+
+prompt_1255d3286db0bad6172d4f06a5e91ca7|i see through the paper.
+Átlátok a papíron.
+
+prompt_94468278ec0429ca0ab343f0ea6a00bd|the summer has arrived.
+Elérkezett a nyár.
+
+prompt_e67b25ee4e18cfbf1595f5911b3f69ea|she has a good ear.
+Jó füle van.
+
+prompt_448599b70a93ddc69d3f7da3542ad406|i am the artist of the month.
+Én vagyok a hónap művésze.
+
+prompt_c59f5d7a494f4bc5c0e7f1a9b64e7d40|the woman drinks wine.
+A nő bort iszik.
+
+prompt_24d5747acaa90a784dcbbc7b7b1a371c|the woman has lunch.
+A nő ebédelni szokott.
+
+prompt_ccfcb44748c2ec2113759c1f79cda56b|she did not tell me her address.
+Nem mondta meg a címét.
+
+prompt_4c39325c987cd30d3ca93c78a358b46d|which one is red, which one is white?
+melyik a piros, melyik a fehér?
+
+prompt_a69f317263db30c94e0e90ec445bc3b0|he has no health insurance.
+nincs egészségbiztosítása.
+
+prompt_d45fc30ef08a67492a722ae1c1d56e7f|do you have a date with a girl?
+Randizol egy lánnyal?
+
+prompt_59a10cbf9c56dfae5e0bcbe99f03864d|ask your question.
+Tegye fel a kérdését.
+
+prompt_1299e899e29bdc29cd25bc12533b5ddb|that was part of the job.
+Ez is része volt a munkának.
+
+prompt_56f3771d5d002e51ccb6740aff3550dd|you drink the tea.
+Megiszod a teát.
+
+prompt_ebdc71387a5378d724d5ab7569c431de|i find it.
+Megtalálom.
+
+prompt_58671225b2b2830a1edf7f2b5cfefb4b|i must buy it.
+Meg kell vennem.
+
+prompt_c31c43699f5411bc3b8ca9ebd1f189d9|he is too tired.
+Túl fáradt.
+
+prompt_f03af84a5572aa6e81b07283d0cc7a81|am i a man?
+Férfi vagyok?
+
+prompt_6ee201255a15d66f08bbb8ee7a83c1dc|her skirt is yellow.
+Sárga a szoknyája.
+
+prompt_7649341e32df8ebb66c14cc62b4f9891|the girl eats a tomato.
+A lány paradicsomot eszik.
+
+prompt_b5569543efd8a04142b0184a6bdf7d0b|the man has oil.
+Az embernek van olajja.
+
+prompt_2f42d993988b570dd3254a6645625f5b|you are my horse.
+Te vagy a lovam.
+
+prompt_bc56fb9f9ce24c7a6bdf0ca37c8c389f|i am at the restaurant.
+Az étteremben vagyok.
+
+prompt_46e5d63fb873c3baea7cc7241b00d781|do you have a date with the girl?
+Randizol a lánnyal?
+
+prompt_28ca2e5bfbeea3d6afd2ad023a9210f8|it is frequent.
+gyakori.
+
+prompt_f88f25bf8ec34cdc904b9e3f0d517534|the boy calls his mother.
+A fiú felhívja az anyját.
+
+prompt_6d62f31bc185a27ac164067075700a13|what are your daughters reading?
+Mit olvasnak a lányai?
+
+prompt_662f0692d604dd2c7b4e9726ff2881b9|when did they write a letter?
+Mikor írtak levelet?
+
+prompt_89ca0700ef552ae73e90b656566468a3|we eat the sugar.
+Megesszük a cukrot.
+
+prompt_0afdd9f0822421e2af2f6ebaf38e416f|the children are at home with the mother.
+A gyerekek otthon vannak az anyával.
+
+prompt_4f642b63555f3cd6731613b3098fa441|the cat is an animal.
+a macska egy állat.
+
+prompt_f8fc4df93b57678576ef17d2e878a7da|what is the advantage of this technology?
+mi az előnye ennek a technológiának?
+
+prompt_0f15c2cdba79c1ea40cb16b16a219a0d|who wrote the details?
+Ki írta a részleteket?
+
+prompt_51a93afbcf2c2be791250587ae5ac6b3|i have no energy left.
+Nincs energiám.
+
+prompt_14fc5672d41c5605f521e6678634f0f2|i have a dream.
+Van egy álmom.
+
+prompt_fa7e5d994520f0b54107cd04b16e8152|we have a red mirror.
+Van egy piros tükörünk.
+
+prompt_524d1006a3d800596eab29f8ac0b0161|he left the restaurant without paying.
+Fizetés nélkül hagyta el az éttermet.
+
+prompt_e4422aeea43ea47347833b34bc2393fe|my first day at college
+Az első napom a főiskolán
+
+prompt_3fb942568251b336492728afd2de4dfe|the climate is nice.
+Kellemes az éghajlat.
+
+prompt_49f74672ea0f5330513cbc36ab466b93|neither the man, nor the woman.
+sem a férfi, sem a nő.
+
+prompt_6ca25edb097414f7534edd5ab42204e4|and your dad?
+És az apád?
+
+prompt_b781a4d968d339c25ca7b24eb31afe40|do you eat breakfast at home?
+eszel reggelit otthon?
+
+prompt_e7b3714b924bed5fb262a185b8a6895f|the captain is going to present the team.
+A kapitány bemutatja a csapatot.
+
+prompt_20b9e02c74ec7c74eb8ec19f99052776|what made him change his mind?
+Miért gondolta meg magát?
+
+prompt_5a483cedf02bd7bef1d81bb85f8db8b5|do they have a book?
+Van egy könyvük?
+
+prompt_29408d6275e6a56e0b2085dc4ce5bd16|he is a musical boy.
+Ő egy zenés fiú.
+
+prompt_780d0e732c25edd5bdc64719122778c1|he never runs.
+Sosem fut el.
+
+prompt_b9388c664f2d494668ee76c1d2b1b767|pass the ball!
+Passzold a labdát!
+
+prompt_ec6bca9991f49921d40eee0003c5130e|they are red.
+Ezek vörösek.
+
+prompt_245dffb357e68a05caa28c9b945892c5|population per district
+népesség körzetenként
+
+prompt_329248fdbac88fa0d5eb68df0f13357d|she liked the books.
+Szerette a könyveket.
+
+prompt_90f780d354278fed1091011793ad4861|it is not yours.
+Ez nem a tiéd.
+
+prompt_dcb55cff6f0d5a0a5b5dd8b6fa5e3c73|are you at the station?
+Az állomáson vagy?
+
+prompt_ec5896c80f77c3bd5d6cc6a91db5efe5|how many days do we have?
+Hány napunk van még?
+
+prompt_7f77346bb040eaf31a1531dcf9ff36ab|open your heart!
+Nyisd ki a szíved!
+
+prompt_cf403b0f0a540dc4fe6a765ba3e4defb|i write on white sheets of paper.
+fehér papírlapokra írok.
+
+prompt_c746ef49b4a48660c58b0ef9ef264bf6|the red apples are not special.
+A piros alma nem különleges.
+
+prompt_f24d11dacb71e7c396d305ae8b419465|the sugar is in the coffee.
+A cukor a kávéban van.
+
+prompt_95cf70523490efc39d7b02734b6534dd|we read a menu.
+olvasunk egy menüt.
+
+prompt_32a28036fb90419483ab6b5f74127d2a|the woman eats breakfast.
+A nő reggelizik.
+
+prompt_a97183fcb829ff6f5b27272d3bb77576|in the little house
+a kis házban
+
+prompt_417a5f452fe443072cf47da42ca81bb9|these are not good conditions.
+Ezek nem jó körülmények.
+
+prompt_70717b583971d33902c3c7309a783122|there are islands in the sea.
+vannak szigetek a tengerben.
+
+prompt_7dfc3b8c8c2afea68f8c23202b9228d7|i do not have a map.
+Nincs térképem.
+
+prompt_a4d73ca7a9c9fe735c11ef046efe35ec|they eat an orange.
+narancsot esznek.
+
+prompt_85258acfb30da2571dcac7e20557feed|i am reading the first chapter.
+Az első fejezetet olvasom.
+
+prompt_1aff28c77a0b2c79ce9dffc5fbf565c4|the girl's cat
+a lány macskája
+
+prompt_585f70199473400f40d3d6ec15429685|i would like to call you, what is your number?
+Szeretnélek hívni, mi a száma?
+
+prompt_2ec4394798c42ab59b57f28f8a130772|he is my child.
+Ő az én gyermekem.
+
+prompt_24f05706af46af81c985b64bee718fac|i do not see it.
+Nem látom.
+
+prompt_c883c747eb927c65b0a863ec6945524d|the children read the animals' names.
+A gyerekek elolvasták az állatok nevét.
+
+prompt_b41ba9ba36fcd933d65fa8450b44133b|you are responsible.
+Te vagy a felelős.
+
+prompt_6f5806cebcf90c2c1a26a92c5c614813|he drinks water.
+Vizet iszik.
+
+prompt_1b4f179e4ba9116e9fa78728f8b51830|what difference does it make?
+Mit számít ez?
+
+prompt_e63e6132d993c23e740a84959de72d70|i mark my shirt.
+Megjelöltem az ingemet.
+
+prompt_37bd3cd225654a1c99d3dab5f502156b|we are going to resolve that problem.
+Meg fogjuk oldani ezt a problémát.
+
+prompt_d0a76d8fac15ffac7a977a0ffeb6c44e|his story is an adventure.
+Az ő története egy kaland.
+
+prompt_45f7f83d0bd24a6ed41d2060e59d26f2|he eats cheese.
+Sajtot eszik.
+
+prompt_2b3a65834798e8f71b61efbacb28105f|why did he not like the hotel?
+Miért nem tetszett neki a hotel?
+
+prompt_937546ec437d23300c0dc5b55341e304|the cats are there.
+Ott vannak a macskák.
+
+prompt_d280d4467d724ce2b356432c896aaeb8|she already decided.
+Már eldöntötte.
+
+prompt_99f9149bcccc4b348e4c4d941be0a77b|he sets the table.
+Ő teríti az asztalt.
+
+prompt_b34507ff8b718c36e946fc5dc4bed6c1|do you have a book?
+Van egy könyve?
+
+prompt_eaa0eef3fefd7f09486258b03e79167c|i find the dog.
+Megtalálom a kutyát.
+
+prompt_ef05e20ca3df709b26a8fc7136fbf484|he likes us.
+Kedvel minket.
+
+prompt_c3db354e474eb1230b3be7b206eb5c67|they make the meal.
+Ők készítik az ételt.
+
+prompt_fc4ff4ea8f4883cc7aba97f8bdc34242|he is a good athlete.
+Ő egy jó sportoló.
+
+prompt_33172ca8095ee03b3fa7d394043edf72|thanks, bye.
+Köszi, viszlát.
+
+prompt_512be5545fd9897a57ab50eb9aa5790b|tomorrow i have a test.
+Holnap lesz egy tesztem.
+
+prompt_5d2897d607f88c83b747e0e3da741643|my shirt
+az ingem
+
+prompt_475e2e90d0827d4c4fc902c19138a051|we find local fruit at the market.
+találunk helyi gyümölcs a piacon.
+
+prompt_6299456095905a82455f1fa9bdd8223d|what questions do children have?
+milyen kérdései vannak a gyerekeknek?
+
+prompt_fc8151e69374caadd3325084ed945b5e|there are many solutions.
+sok megoldás van.
+
+prompt_dd1f6298b37589cd4f6473c1809a4b79|he eats one orange.
+Egy narancsot eszik.
+
+prompt_aa22761e367f934eddb60a9b8e790655|i do not have a sister.
+Nincs húgom.
+
+prompt_447f251188714e203a2af24efbe27179|i have a pink plate.
+Van egy rózsaszín tányérom.
+
+prompt_18ac9292f105f041a7f4cd56f69dcca4|she is the best player in our team.
+Ő a legjobb játékos a csapatunkban.
+
+prompt_22d2e02a56761690a62683ab5a6e6ef0|i am going to add sugar.
+Adok hozzá cukrot.
+
+prompt_3ddf93244cca97fd0d124faea92d5480|we run to the garden.
+kifutunk a kertbe.
+
+prompt_838c74081fa1fe3168373b50b24a6d29|the average is four.
+Az átlag négy.
+
+prompt_ffa3389ba234a00a6ff45cf60e2e55b3|i saw the advertisement in the newspaper.
+Láttam a hirdetést az újságban.
+
+prompt_f1e6af5777af2580ca9bf8c15c5adf45|this is an important man.
+Ez egy fontos ember.
+
+prompt_80fa0d5c6b343421fa57bdcf226a5318|tomorrow there will be more food.
+Holnap több étel lesz.
+
+prompt_478ef1ca585d6066e84f5576aa9d6e04|i love the sandwich, thank you.
+Imádom a szendvicset, köszönöm.
+
+prompt_b99788e716fa053fb83a48c2d1ce56c5|we are talking about it.
+beszélünk róla.
+
+prompt_2076eba7c1c19a369bfb5f9e234357be|we do not have school today.
+Ma nincs iskola.
+
+prompt_ea6159de7610d7b86ed7638dc98dfb10|literature is culture.
+Az irodalom kultúra.
+
+prompt_148048e289084734f0fdc59e2a7b1fdb|i like the skirts.
+Tetszik a szoknyája.
+
+prompt_3a6055016818ab5be40f9af5c251b48a|the men and the women read.
+A férfiak és a nők olvasnak.
+
+prompt_f0e982e43dfa565194c2fa34847d4445|i do not have a modern computer.
+Nincs modern számítógépem.
+
+prompt_56853e8d88dcddb51282ea910cf29597|you hear a child.
+Hallasz egy gyereket.
+
+prompt_a049792a21b4b28da6f8e1a272178f72|yours are green, mine is white.
+A tiéd zöld, az enyém fehér.
+
+prompt_53da443ca18660b433e891cdfce51c61|i return the book.
+Visszaadom a könyvet.
+
+prompt_18e5dd7389f9109a2350c6b77c9cd48c|you write the newspaper.
+Te írod az újságot.
+
+prompt_3993c729f521fe4c5a0028d4ce18a9dc|this is a good deal.
+Ez egy jó üzlet.
+
+prompt_31186031b033179a51c9c0a6d1f67167|you have gone too far.
+Túl messzire mentél.
+
+prompt_bf3aaa89b30c41b148caa3818ecfa554|my girl is pretty.
+Csinos a lányom.
+
+prompt_e1fab90eb8521426536c41bbe35c6e50|he has a question.
+Van egy kérdése.
+
+prompt_18510a26631be75367bc181b9d811c3f|he swims in november.
+novemberben úszik.
+
+prompt_21b1924d5d498e9485f1cfa40ee82373|their university is open.
+Az egyetemük nyitva van.
+
+prompt_7f4d669e480b4f79aa656bde668da29a|work with your family!
+dolgozni a családjával!
+
+prompt_335114f8f6ff8d7731039df8206d0f9c|you jump with me.
+Ugorj velem.
+
+prompt_be8988e9155a6de916de84161d93ec2b|he creates systems.
+Rendszereket hoz létre.
+
+prompt_dbf688b8d1271928e5d7a4443b9d8dc3|the man writes a report.
+A férfi ír egy jelentést.
+
+prompt_481d4f1e03e811f903f944bc05121225|i thank my parents.
+Köszönöm a szüleimnek.
+
+prompt_f7b844ed1ce235f349b469a1559a4c7d|he has blood on his back.
+Vér van a hátán.
+
+prompt_d23e1e1adf31f4cc5cb207a1ccc0ce43|we can learn from failures.
+tanulhatunk a kudarcokból.
+
+prompt_d350593ed61953a86e653541c53a08c7|i swim in the pool.
+Úszok a medencében.
+
+prompt_970495ada5c214bbcd714fb8b4a7614c|he runs without shoes.
+Cipő nélkül fut.
+
+prompt_1728a24bb4428451ac2ef95dc571a0ed|does he have dogs?
+Vannak kutyái?
+
+prompt_7b2bc7f3c2170a338643facaa084c631|do not forget your things.
+ne felejtsd el a dolgokat.
+
+prompt_caa8aa4b016b43e393164a3a190e5f8f|my dog eats the meat.
+A kutyám megeszi a húst.
+
+prompt_dae2ee6579e8d4c4df9c35eba9696790|the transportation is in the city.
+A szállítás a városban van.
+
+prompt_1c29870059e541f6385915dd2ecee2e5|do we see each other tomorrow?
+Találkozunk holnap?
+
+prompt_95f54a8916202678563df252862c8727|my brother is at his office.
+A bátyám az irodájában van.
+
+prompt_b523f8e4149c9a3defda74f7de9641a0|the construction
+az építkezés
+
+prompt_af23fb5ec8b1c9ff640db1161397b05c|i have eighteen horses.
+Tizennyolc lovam van.
+
+prompt_90b550369390e4cb031a35488bd5cb62|they had lived together.
+együtt éltek.
+
+prompt_c8930da1c56223186681a3b72d11f956|your house is a palace.
+A házad egy palota.
+
+prompt_355b035d6f6a758a0ea5d68750fc1a59|i design clothes.
+Ruhákat tervezek.
+
+prompt_f0d4eabbe30e444186039b3dfba808f2|her food is very special.
+az étele nagyon különleges.
+
+prompt_a8e51f95acb01782c2a0d104cb3b9e82|the sound of the violin is very sweet.
+A hegedű hangja nagyon édes.
+
+prompt_93459b4be29c1e839bc7516e860f1c35|but it is special to me.
+de ez különleges számomra.
+
+prompt_0f3d3e6940ec41fce8e0d094f134b15e|he is nice to his wife.
+Kedves a feleségéhez.
+
+prompt_7b2f567e5d350855cb47e50254c11dea|they give many examples.
+sok példát adnak.
+
+prompt_c68846ba97d2a5db1b8e69d9f8d0029f|he needs them.
+Szüksége van rájuk.
+
+prompt_8489a792c55b7e8b793140d311c7a383|the woman is her daughter.
+A nő a lánya.
+
+prompt_e6f7b7b23654da32c5fb1ef671b73621|she ends her lunch with a fruit.
+Egy gyümölccsel fejezi be az ebédjét.
+
+prompt_a8c3b7c1ebb1fa6cde5271559f12fb5c|the boy and the girl are children.
+A fiú és a lány gyerekek.
+
+prompt_157772f910eb387f1abc0b92736bfe9b|i have a spoon.
+Van egy kanalam.
+
+prompt_5fcae2e5ffac9da5e00d845522a2cbbb|there is something wrong here.
+Valami nem stimmel itt.
+
+prompt_526a3c4741231a891624ec1a14a00d59|the team has great athletes.
+A csapat nagy sportolókkal rendelkezik.
+
+prompt_fe596db83daeb068e8beaf94d95b5531|she reads your books.
+Olvasta a könyveidet.
+
+prompt_5ffba61eca0c92379956f31273e3f866|your children?
+A gyerekei?
+
+prompt_4c9ff49d202a9b4c814a8e9b4024b99e|which car is ours?
+Melyik autó a miénk?
+
+prompt_648f3057471ef858d7cebf80e1db401a|the people are watching us.
+Az emberek figyelnek minket.
+
+prompt_5089801371005e36f439613daf4a076b|the boat is full.
+A hajó tele van.
+
+prompt_ad49ae7522e0b5ccef301161f65f4c0e|i do not understand anything.
+Nem értek semmit.
+
+prompt_78ca601afb045078a01adc8eee6cf862|her dress is pink.
+Rózsaszín a ruhája.
+
+prompt_75f864fb3a1b87a96b707b95923b2905|i am going to discover a country.
+Felfedezek egy országot.
+
+prompt_bdf0d2089fc2a3cc4a454355250f14b7|i eat chicken.
+Csirkét eszek.
+
+prompt_d48bc9a457f46ad5e9ff7a3d054acf68|i eat the apple.
+Megeszem az almát.
+
+prompt_15fe33b03ea8874bb0d0be76a47a3a17|i have seventy friends.
+Hetven barátom van.
+
+prompt_df4a06428aabb9cbcddffb701860ff57|he speaks during dinner.
+Beszél vacsora közben.
+
+prompt_cd27ad1ba5a119ecac7d437a41876d6a|you like the rain.
+Szereted az esőt.
+
+prompt_6ae9e2edbb6d71a5bf2b349c2983fdf9|you have rights.
+Jogai vannak.
+
+prompt_b8c7767d1b14d9dddf736bea24252d44|the books are from the boys.
+A könyvek a fiúktól vannak.
+
+prompt_8732e51593d6394dce326f94d8618e88|he does not understand my english.
+Nem érti az angol nyelvemet.
+
+prompt_97433e2ee277a778402ee3e6b269dd1e|i trust him.
+Bízom benne.
+
+prompt_e2acfab9a44d7dde6af82632a765e21a|he walks into the kitchen.
+besétál a konyhába.
+
+prompt_73f0c89ded8b884c0f12297238a39d1e|she writes about the staff.
+ír a személyzetről.
+
+prompt_8c3313c7d73c91d0178144e43ccfad5f|a lemon is yellow.
+A citrom sárga.
+
+prompt_620ed27f5aa195514f332d8dd97f9795|my parents like the beer.
+A szüleim szeretik a sört.
+
+prompt_1c3c60d9016826a6e06ab74f1320ea2f|the coffee is yours.
+Tiéd a kávé.
+
+prompt_cb223d4a019dd01d361a44969dea71dd|this is not the case.
+Ez nem így van.
+
+prompt_be9f0e86274b0543a2180605844a7420|we have wine.
+Van bor.
+
+prompt_8e6125ded33b1c59ff85154b77ff165f|he is afraid of dogs.
+fél a kutyáktól.
+
+prompt_5edd6a12c1f6a7f26a714e13c9a1a105|i am going to introduce the new boss.
+Bemutatom az új főnököt.
+
+prompt_90b61bf762d61f3ce8951ff0e61f2f88|it is for my novel.
+Ez a regényem miatt van.
+
+prompt_afc69e1798d92fb5142f46823ea7c1ce|yes, they are real.
+Igen, valódiak.
+
+prompt_10563bf5ec7d8614af656d647f1a1a01|we cannot use the true definition.
+Nem használhatjuk az igazi definíciót.
+
+prompt_003ca6630782157cbe48db0bdf83459a|do you eat an egg?
+Eszik egy tojást?
+
+prompt_d3c732bee687a7b88cae57a290f20a7a|i am a tennis player.
+Teniszjátékos vagyok.
+
+prompt_7432fd461dea0d3895fdebcf319da451|she has few friends.
+Kevés barátja van.
+
+prompt_1ee34e205f8acdd24b73c824e6f5f27b|everybody is going to wait.
+Mindenki várni fog.
+
+prompt_92587240e4ea574b347d22af4335a167|the price is ten dollars.
+Az ár tíz dollár.
+
+prompt_e3ecb7cfc17c91af231e35cea7d2abbb|do we have white bedsheets?
+Van fehér ágyneműnk?
+
+prompt_71897f2c45667546ad8aee35e4920d7c|this bed is too hard for sleeping.
+Ez az ágy túl nehéz az alváshoz.
+
+prompt_a619badc469e418bda1c3bb9e068c1cd|it is very interesting.
+Ez nagyon érdekes.
+
+prompt_a0d4ab6066558d7f1a46473e7d80053b|the boys have their own sandwiches.
+A fiúknak saját szendvicsük van.
+
+prompt_f9f4464e7f8f4d656f3a49e2230fcb34|they take the sandwiches.
+Elviszik a szendvicseket.
+
+prompt_3e5b278dfa9f70b4aa167f16721bbca5|we won the match.
+Megnyertük a meccset.
+
+prompt_5e275282a11bfb04de656b89694811cb|they live in a house.
+egy házban élnek.
+
+prompt_6d8dc35e2fd506d912e348158ea41508|we will not want wine.
+Nem akarunk bort.
+
+prompt_3ac217b8d4d9fec0b833737181a34457|my sister is famous.
+A húgom híres.
+
+prompt_32a6cb900e642a45574fe8283e0364cf|the press
+a sajtó
+
+prompt_202355a2aeed21076543fb439419744e|today is a normal day.
+Ma egy normális nap.
+
+prompt_689da809ebe930066d37e0e5a552c8f7|we eat his rice.
+Megesszük a rizst.
+
+prompt_2489aa270a3354eb3b19df870c8bab88|i live in the country.
+Vidéken élek.
+
+prompt_ec624f8120fb6f3299c6226a6c92dbfe|i like soup.
+Szeretem a levest.
+
+prompt_ae7d0dfc1069a132e324082c0971eb52|he has the same coat.
+Ugyanolyan kabátja van.
+
+prompt_c28d433030770539f6978532b2978538|i have her skirt.
+Nálam van a szoknyája.
+
+prompt_5c6e9e6571351257b6ef10ecdd6a4576|i do not like the spoon!
+Nem szeretem a kanalat!
+
+prompt_2747f62d65093238c2bf181ff253e6a9|yes, you are going.
+Igen, elmész.
+
+prompt_afaec92ecb1243629208806a7ec895b1|especially for her parents
+különösen a szülei számára
+
+prompt_bce14ebd2edc782f83ce004b7418dc6f|sorry for your car!
+Sajnálom az autóját!
+
+prompt_627b6ee9f0ba201cf745e104dd14c19f|i hope that they find the money.
+Remélem, megtalálják a pénzt.
+
+prompt_625f6f81a660bc0f5a1e8df7652fd2ad|her analyses are good.
+Az elemzései jók.
+
+prompt_606585bd696a7e3f18a9d6a2d0ea30fd|they are between us.
+Köztünk vannak.
+
+prompt_d52577aae233333b069b40947cab9a04|he is still full of energy.
+még mindig tele van energiával.
+
+prompt_612d50b670bbcb4f411e21becaa85946|he would have opened the school.
+Kinyitotta volna az iskolát.
+
+prompt_492bad1c50b92b23fc03cc0420ffde8d|the coffee has sugar.
+A kávéban van cukor.
+
+prompt_ddb1a79bea2da3bba7dee0d351081c7b|the flower is white; it is a white flower.
+A virág fehér, fehér virág.
+
+prompt_3fa941e948cd25e2a27327e1635a0e1f|she likes coffee.
+Szereti a kávét.
+
+prompt_c9b97216960274d7baab5b480f23f62e|i listen to the music.
+Én hallgatom a zenét.
+
+prompt_149dc77b4d3bec37d228905dac1b2e64|we like germany.
+Szeretjük Németországot.
+
+prompt_ff8e13bf517d027e2913990fb9a52298|a man likes his daughters.
+Egy férfi szereti a lányait.
+
+prompt_2ab06e3ccf766a54af4c8fa16a3d9395|i want to read that book.
+El akarom olvasni azt a könyvet.
+
+prompt_298cca16364c6123381aadba36a9afbe|it is a person.
+Ez egy személy.
+
+prompt_71c3460e697729678128ae6c2c438307|you have houses.
+Vannak házai.
+
+prompt_28b92fdb2ea78167d5cb1d7e84819324|the threat is real.
+A fenyegetés valós.
+
+prompt_f7acfbe7f0ee2b7e65ed0b518104348e|one apple per child.
+Gyermekenként egy alma.
+
+prompt_533b920008bbcea6e4b972344c2e8c61|the animal sleeps once a day.
+az állat naponta egyszer alszik.
+
+prompt_30d6a1dd0addb49cc0da65ebafbf5fdf|animals must drink.
+az állatoknak inniuk kell.
+
+prompt_e1058a97336a2b1369b69ebef17eab8c|your pants
+a nadrágod
+
+prompt_bfa619f0f26a26eed916e590b673f6f6|i do not read her novels.
+Nem olvasom a regényeit.
+
+prompt_d770aa99119a2f691d32e4d1d61b660d|we drink juice.
+Iszunk gyümölcslevet.
+
+prompt_31330db331c463cb9be81b4ac744b17d|one of them is black.
+Az egyik fekete.
+
+prompt_fdd9cbd8fd40b8c803a58599c5e7cdf9|i feel a spider.
+Érzek egy pókot.
+
+prompt_af70a28123955e957c73491fcc84a81e|the site is special.
+Az oldal különleges.
+
+prompt_802cac2864af5db3f7f0149f986e926e|they would have opened a new street.
+új utcát nyitottak volna.
+
+prompt_b009340f1898fca198faf4e6cce49dd8|i do not know if i want to sell the property.
+Nem tudom, hogy el akarok-e adni az ingatlant.
+
+prompt_7bc4c5ab5d4502eebdd541ce378c7491|is she not your wife?
+Ő nem a felesége?
+
+prompt_d07761b230bdaf5ddab4b977e9068260|you eat apples.
+Almát eszel.
+
+prompt_f6845577b7d855a226336c33340afda7|the apple and the book are red.
+Az alma és a könyv piros.
+
+prompt_5f433994b19b58c77f152c69541cd055|without my knowledge?
+a tudtom nélkül?
+
+prompt_94e73e00c2f581573460ebeb792c4604|someone has a bird.
+Valakinek van egy madara.
+
+prompt_8aea2f5cbb089af7ec953118d1485f22|no, sorry
+Nem, sajnálom.
+
+prompt_79cb7c354be9b0f37c6e68c82b5d6e31|the boy eats sugar.
+A fiú cukrot eszik.
+
+prompt_99874e075fb7063102789cd41ad5f313|i need help.
+Segítségre van szükségem.
+
+prompt_08e8384a34b081cddf3d01fa9551bd3e|the woman has the book.
+A nőnél van a könyv.
+
+prompt_16f49ac392ce5e4f25b76a92a6121076|it is a little piece.
+ez egy kis darab.
+
+prompt_ba3b3301b008a21e5830f529c94f1f26|i am her grandfather.
+Én vagyok a nagyapja.
+
+prompt_b588a4d5eb03e5744a25bf6a1de100f9|the students design tables.
+a diákok asztalokat terveznek.
+
+prompt_9a1d4fc8c98712ce297eaa4e0fb238b4|i see you.
+Látlak.
+
+prompt_b204f40edf8986758d952ee7ece8a29e|do not eat more rice.
+ne egyen több rizst.
+
+prompt_ec33c80529abafe88dd1a125b16931e7|my father plays with me.
+Apám játszik velem.
+
+prompt_2ed62b1505d7f7b69ed7674ed3dbd5f8|germany is his second home.
+Németország a második otthona.
+
+prompt_4dcdaf2be904cbd7c4531736a8e56a19|the woman reads me the book.
+A nő felolvassa nekem a könyvet.
+
+prompt_5d7dbfa99da95e765d482a36465205a7|should i go to great britain?
+Elmenjek Nagy-Britanniába?
+
+prompt_4c6d7bad3190a72b1cd673d09f654acc|we like all cats.
+Szeretjük az összes macskát.
+
+prompt_62a3ec1e71fcc45b840ceeba09cff3cc|i do not like the hospital.
+Nem szeretem a kórházat.
+
+prompt_f85d9eceb2e9a0ab800aec1f634fdcad|would you wait for me?
+Megvárnál rám?
+
+prompt_38e604c67ca31db7933020685aea8a27|the program works.
+a program működik.
+
+prompt_4dd4be4db33506c6c6835b0d602181d1|my uncle likes the color.
+A nagybátyám szereti a színt.
+
+prompt_bd031ea68a5c4e70e80b426cd5cdb757|she would have changed her opinion.
+megváltoztatta volna a véleményét.
+
+prompt_c45ebb545347299e77aad7bde3c72087|which shoe is yours?
+Melyik cipő a tiéd?
+
+prompt_4650b97d07168d769782bf8e539273c2|the girls have hats.
+A lányoknak kalapjuk van.
+
+prompt_e283b8dd6d3b9a21b81c20aaa9c7892e|they give me a rose.
+adnak nekem egy rózsát.
+
+prompt_7a1530e0dee9d2a7f32857e655e91a4b|she works for an international foundation.
+Egy nemzetközi alapítványnak dolgozik.
+
+prompt_b8aa03d9b5e7cf18edad2f28c8cbd1ab|he wants to wait for the train.
+Meg akarja várni a vonatot.
+
+prompt_35e41ba8c7267e728f43c1fd596a6506|the books come from the women.
+A könyvek a nőktől származnak.
+

@@ -1,0 +1,3079 @@
+{
+  "split": "test",
+  "k": 5,
+  "description": "DeepL HU->EN back-translation for best/worst prompt slices (1-5 and 6-10) for best model and base raw",
+  "bundles": [
+    {
+      "name": "best_model_worst1_5",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_6bf3ba8f17283622fd12acbe46207a11",
+          "english_prompt": "at your house, you have yellow pants.",
+          "aws_hu": "a házadnál, sárga nadrágod van.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "a házadnál, sárga nadrágod van.",
+              "back_en": "at your house, you have yellow pants.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a házadnál van sárga nadrágod.",
+              "back_en": "you have yellow pants at your house.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a házadnál van neked sárga nadrágod.",
+              "back_en": "you have yellow pants at your house.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a te házadnál van sárga nadrágod.",
+              "back_en": "you have yellow pants at your house.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a házadnál van egy sárga nadrágod.",
+              "back_en": "you have a pair of yellow pants at your house.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "van otthon sárga nadrágod.",
+              "weight": 0.03773584905660378
+            },
+            {
+              "hu": "a házukban önöknek van citromsárga nadrágja.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "neked van a házadban citromsárga nadrágod.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban vannak neked sárga nadrágjaid.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házában önnek van sárga nadrágja.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban van neked citromsárga nadrágod.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban citromsárga nadrágod van.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "neked van sárga nadrágod a házadban.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "otthon neked van sárga nadrágod.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban vannak sárga nadrágjaid.",
+              "weight": 0.01886792452830189
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_e86b30fcba71b9f43600de123632970b",
+          "english_prompt": "we drink our tea with sugar.",
+          "aws_hu": "cukorral inni a teát.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "cukorral inni a teát.",
+              "back_en": "drink the tea with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "cukorral iszunk a teánk.",
+              "back_en": "we drink our tea with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "cukorral iszunk a teánkat.",
+              "back_en": "we drink our tea with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a teánk cukorral iszunk.",
+              "back_en": "our tea is drunk with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "cukorral iszunk a mi teánk.",
+              "back_en": "with sugar is our tea.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "cukorral isszuk a teánkat.",
+              "weight": 0.1278726221159797
+            },
+            {
+              "hu": "a teánkat cukorral isszuk.",
+              "weight": 0.08991348023769138
+            },
+            {
+              "hu": "megisszuk a teánkat cukorral.",
+              "weight": 0.07567449840345526
+            },
+            {
+              "hu": "isszuk a teánkat cukorral.",
+              "weight": 0.04929344645880512
+            },
+            {
+              "hu": "mi cukorral isszuk a teánkat.",
+              "weight": 0.04929344645880512
+            },
+            {
+              "hu": "a teánkat isszuk cukorral.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "isszuk a mi teánkat cukorral.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "mi isszuk a teánkat cukorral.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "mi a teánkat cukorral isszuk.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "mi isszuk cukorral a teánk.",
+              "weight": 0.016431148819601706
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_4115c7e31939c2f8bc92829047061c3c",
+          "english_prompt": "he is with the architect.",
+          "aws_hu": "Ő az építész.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Ő az építész.",
+              "back_en": "He is the architect.",
+              "matches_gold": false
+            },
+            {
+              "hu": "az építésznél van.",
+              "back_en": "is with the architect.",
+              "matches_gold": false
+            },
+            {
+              "hu": "az építészhez van.",
+              "back_en": "is for the architect.",
+              "matches_gold": false
+            },
+            {
+              "hu": "az építésznél van ő.",
+              "back_en": "the architect has him.",
+              "matches_gold": false
+            },
+            {
+              "hu": "az építészhez ő van.",
+              "back_en": "to the architect he is.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "az építésszel van.",
+              "weight": 0.3392938294267764
+            },
+            {
+              "hu": "ő az építésszel van.",
+              "weight": 0.24185745342177997
+            },
+            {
+              "hu": "ő az építészmérnökkel van.",
+              "weight": 0.0755510367436676
+            },
+            {
+              "hu": "ő van az építésszel.",
+              "weight": 0.06676169310343691
+            },
+            {
+              "hu": "ő együtt van az építésszel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "együtt van az építészmérnökkel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "együtt van az építésszel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "ő van az építészmérnökkel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "ő együtt van az építészmérnökkel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "az építésszel ő van.",
+              "weight": 0.027653598730433892
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_62815c82e7736b229614a003651de170",
+          "english_prompt": "the organization has different departments.",
+          "aws_hu": "a szervezet különböző szervezeti egységekkel rendelkezik.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "a szervezet különböző szervezeti egységekkel rendelkezik.",
+              "back_en": "the organisation has different departments.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a szervezetnek különböző osztályjai vannak.",
+              "back_en": "the organisation has different departments.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a szervezetnek különféle osztályjai vannak.",
+              "back_en": "the organisation has different departments.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A szervezetnek más szakaszok vannak.",
+              "back_en": "The organisation has different stages.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A szervezetnek más osztálya van.",
+              "back_en": "The organisation has a different department.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a szervezetnek különböző részlegei vannak.",
+              "weight": 0.266059178619103
+            },
+            {
+              "hu": "a szervezetnek különböző osztályai vannak.",
+              "weight": 0.09415363557999412
+            },
+            {
+              "hu": "a szervezet különböző részlegekből áll.",
+              "weight": 0.05350407729328561
+            },
+            {
+              "hu": "a szervezetnek különféle részlegei vannak.",
+              "weight": 0.05350407729328561
+            },
+            {
+              "hu": "a szervezetnek vannak különböző részlegei.",
+              "weight": 0.049212589240345134
+            },
+            {
+              "hu": "a szervezetnek más részlegei vannak.",
+              "weight": 0.04159809732334649
+            },
+            {
+              "hu": "a szervezetnek vannak más részlegei.",
+              "weight": 0.04159809732334649
+            },
+            {
+              "hu": "a szervezetnek különféle osztályai vannak.",
+              "weight": 0.038563557019731236
+            },
+            {
+              "hu": "a szervezetnek eltérő részlegei vannak.",
+              "weight": 0.03511919903282838
+            },
+            {
+              "hu": "a szervezetnek vannak különböző osztályai.",
+              "weight": 0.031033554123461104
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_a18e17e18c132825f2ea2e054c16f871",
+          "english_prompt": "his neighborhood",
+          "aws_hu": "a szomszédságában",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "a szomszédságában",
+              "back_en": "in the neighbourhood",
+              "matches_gold": false
+            },
+            {
+              "hu": "a szomszédságát",
+              "back_en": "the neighbourhood",
+              "matches_gold": false
+            },
+            {
+              "hu": "a szomszédság",
+              "back_en": "the neighbourhood",
+              "matches_gold": false
+            },
+            {
+              "hu": "a szomszédságának",
+              "back_en": "for your neighbourhood",
+              "matches_gold": false
+            },
+            {
+              "hu": "a szomszédságja",
+              "back_en": "your neighbourhood",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a környéke",
+              "weight": 0.2736364048050366
+            },
+            {
+              "hu": "az ő környéke",
+              "weight": 0.24695691709895315
+            },
+            {
+              "hu": "a szomszédsága",
+              "weight": 0.14102353054133465
+            },
+            {
+              "hu": "környéke",
+              "weight": 0.10642871829295392
+            },
+            {
+              "hu": "az ő szomszédsága",
+              "weight": 0.06137239765004434
+            },
+            {
+              "hu": "a környezete",
+              "weight": 0.05630113500650843
+            },
+            {
+              "hu": "szomszédsága",
+              "weight": 0.052989371929370886
+            },
+            {
+              "hu": "az ő környezete",
+              "weight": 0.03958807527365692
+            },
+            {
+              "hu": "környezete",
+              "weight": 0.021703449402141157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "best_model_worst6_10",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_2072edd1a4f6fc817b9ba5615a5350d0",
+          "english_prompt": "the parties are private.",
+          "aws_hu": "A felek magántulajdonban vannak.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "A felek magántulajdonban vannak.",
+              "back_en": "The parties are privately owned.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Az ünnepek privátak.",
+              "back_en": "Holidays are private.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A pártok privát jellegűek.",
+              "back_en": "The parties are private.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Az ünnepek magánéletűek.",
+              "back_en": "Holidays are private.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A buliak privátak.",
+              "back_en": "Parties are private.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a bulik zártkörűek.",
+              "weight": 0.07976657592361511
+            },
+            {
+              "hu": "a bulik privátok.",
+              "weight": 0.06713307998443117
+            },
+            {
+              "hu": "a partik privátok.",
+              "weight": 0.04378508358990502
+            },
+            {
+              "hu": "a bulik privátak.",
+              "weight": 0.04005053769791168
+            },
+            {
+              "hu": "a partik zártkörűek.",
+              "weight": 0.03332632400859976
+            },
+            {
+              "hu": "a bulik magánjellegűek.",
+              "weight": 0.031497257868011865
+            },
+            {
+              "hu": "a partik privátak.",
+              "weight": 0.02624632230950956
+            },
+            {
+              "hu": "a bulik magánok.",
+              "weight": 0.023738240989946383
+            },
+            {
+              "hu": "a rendezvények zártkörűek.",
+              "weight": 0.02083768229221866
+            },
+            {
+              "hu": "a partik magánok.",
+              "weight": 0.017269239872737163
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_4274a17d2eb886b3643d312eaab81917",
+          "english_prompt": "he has the lunch.",
+          "aws_hu": "Ebédelni fog.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Ebédelni fog.",
+              "back_en": "He will have lunch.",
+              "matches_gold": false
+            },
+            {
+              "hu": "van az ebédje.",
+              "back_en": "is your lunch.",
+              "matches_gold": false
+            },
+            {
+              "hu": "van a ebédje.",
+              "back_en": "have your lunch.",
+              "matches_gold": false
+            },
+            {
+              "hu": "van őneki az ebéd.",
+              "back_en": "he has his lunch.",
+              "matches_gold": false
+            },
+            {
+              "hu": "van az ebédje őneki.",
+              "back_en": "has his lunch for him.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ebédel.",
+              "weight": 0.15713017616630073
+            },
+            {
+              "hu": "megebédel.",
+              "weight": 0.1453225820790324
+            },
+            {
+              "hu": "van ebédje.",
+              "weight": 0.12235759446969671
+            },
+            {
+              "hu": "megeszi az ebédet.",
+              "weight": 0.12073323696570527
+            },
+            {
+              "hu": "nála van az ebéd.",
+              "weight": 0.07758467204148134
+            },
+            {
+              "hu": "ő ebédel.",
+              "weight": 0.06332714778661637
+            },
+            {
+              "hu": "neki van ebédje.",
+              "weight": 0.05557271478184182
+            },
+            {
+              "hu": "ő megebédel.",
+              "weight": 0.0438019608192004
+            },
+            {
+              "hu": "ő megeszi az ebédet.",
+              "weight": 0.028605264811382536
+            },
+            {
+              "hu": "nála van az ebédje.",
+              "weight": 0.025390810712479943
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_010ee99182ff6cd449e06343514bf042",
+          "english_prompt": "the hat fits him perfectly.",
+          "aws_hu": "A kalap tökéletesen illik hozzá.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "A kalap tökéletesen illik hozzá.",
+              "back_en": "The hat fits perfectly.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A sapka tökéletesen illik hozzá.",
+              "back_en": "The hat fits perfectly.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A sapka tökéletesen illeszkedik hozzá.",
+              "back_en": "The cap fits perfectly.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Tökéletesen illik hozzá a sapka.",
+              "back_en": "The hat is a perfect match.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Tökéletesen illik hozzá a kalap.",
+              "back_en": "The hat fits perfectly.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a kalap tökéletesen illik rá.",
+              "weight": 0.03814495968832185
+            },
+            {
+              "hu": "tökéletesen jó rá a kalap.",
+              "weight": 0.02253183742169167
+            },
+            {
+              "hu": "a kalap tökéletesen jó rá.",
+              "weight": 0.021787471785346096
+            },
+            {
+              "hu": "tökéletesen illik rá a kalap.",
+              "weight": 0.021008429383603797
+            },
+            {
+              "hu": "tökéletes rá a kalap.",
+              "weight": 0.017410746612179253
+            },
+            {
+              "hu": "a kalap tökéletes neki.",
+              "weight": 0.017410746612179253
+            },
+            {
+              "hu": "tökéletesen áll neki a kalap.",
+              "weight": 0.01633353445793322
+            },
+            {
+              "hu": "a kalap tökéletesen áll rajta.",
+              "weight": 0.013789588573700915
+            },
+            {
+              "hu": "a kalap tökéletes rá.",
+              "weight": 0.013789588573700915
+            },
+            {
+              "hu": "a kalap tökéletesen passzol rá.",
+              "weight": 0.013789588573700915
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_cd4e03d94efa6c1d20cc8552fcde4698",
+          "english_prompt": "it is a measure of length.",
+          "aws_hu": "ez a hosszúság mértéke.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "ez a hosszúság mértéke.",
+              "back_en": "this is the measure of length.",
+              "matches_gold": false
+            },
+            {
+              "hu": "hosszúság mérete ez.",
+              "back_en": "length size it is.",
+              "matches_gold": false
+            },
+            {
+              "hu": "hosszúság mérete.",
+              "back_en": "length size.",
+              "matches_gold": false
+            },
+            {
+              "hu": "hosszúság mértéke ez.",
+              "back_en": "length measure this.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a hosszúság mérete ez.",
+              "back_en": "the length of the size of this.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ez egy hosszmérték.",
+              "weight": 0.31067441622755043
+            },
+            {
+              "hu": "az egy hosszmérték.",
+              "weight": 0.04778220869043414
+            },
+            {
+              "hu": "ez egy hosszúságmérték.",
+              "weight": 0.04778220869043414
+            },
+            {
+              "hu": "ez hosszmérték.",
+              "weight": 0.03958407775943878
+            },
+            {
+              "hu": "az hosszúság-mértékegység.",
+              "weight": 0.01979203887971939
+            },
+            {
+              "hu": "az a hosszúságnak az egyik mértékegysége.",
+              "weight": 0.01979203887971939
+            },
+            {
+              "hu": "az hosszúságmérték.",
+              "weight": 0.01979203887971939
+            },
+            {
+              "hu": "az a hossznak egy mértéke.",
+              "weight": 0.01979203887971939
+            },
+            {
+              "hu": "ez a hossznak egy mértéke.",
+              "weight": 0.01979203887971939
+            },
+            {
+              "hu": "ez egy hosszmértékegység.",
+              "weight": 0.01979203887971939
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_c90484fbabf59876edea55492b1c300e",
+          "english_prompt": "there are six players in a volleyball team.",
+          "aws_hu": "hat játékos van egy röplabda csapatban.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "hat játékos van egy röplabda csapatban.",
+              "back_en": "there are six players on a volleyball team.",
+              "matches_gold": false
+            },
+            {
+              "hu": "6 játékos van egy labdarúgó csapatban.",
+              "back_en": "There are 6 players in a football team.",
+              "matches_gold": false
+            },
+            {
+              "hu": "6 játékos van egy önkéntes csapatban.",
+              "back_en": "There are 6 players in a volunteer team.",
+              "matches_gold": false
+            },
+            {
+              "hu": "6 játékos van egy röplapú csapatban.",
+              "back_en": "There are 6 players in a volleyball team.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Hat játékos van egy röplapú csapatban.",
+              "back_en": "There are six players in a volleyball team.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "hat játékos van egy röplabda-csapatban.",
+              "weight": 0.08958721863282945
+            },
+            {
+              "hu": "hat játékos van egy röplabdacsapatban.",
+              "weight": 0.08958721863282945
+            },
+            {
+              "hu": "egy röplabda-csapatban hat játékos van.",
+              "weight": 0.03882649211205244
+            },
+            {
+              "hu": "egy röplabdacsapatban hat játékos van.",
+              "weight": 0.03882649211205244
+            },
+            {
+              "hu": "hat játékos van a röplabda-csapatban.",
+              "weight": 0.0345889354673109
+            },
+            {
+              "hu": "hat játékos van a röplabdacsapatban.",
+              "weight": 0.0345889354673109
+            },
+            {
+              "hu": "6 játékos van egy röplabdacsapatban.",
+              "weight": 0.027460840354375633
+            },
+            {
+              "hu": "6 játékos van egy röplabda-csapatban.",
+              "weight": 0.027460840354375633
+            },
+            {
+              "hu": "a röplabdacsapatban hat játékos van.",
+              "weight": 0.023994553157389475
+            },
+            {
+              "hu": "a röplabda-csapatban hat játékos van.",
+              "weight": 0.023994553157389475
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "best_model_best1_5",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_126d3a56863a30c011b0c1ba088f50cb",
+          "english_prompt": "i love physics.",
+          "aws_hu": "Imádom a fizikát.",
+          "prompt_f1": 0.9451643667762288,
+          "prompt_weighted_recall": 0.8960299946330341,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Imádom a fizikát.",
+              "back_en": "I love physics.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Szeretem a fizikát.",
+              "back_en": "I love physics.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Én imádom a fizikát.",
+              "back_en": "I love physics.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A fizikát imádom.",
+              "back_en": "I love physics.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Én a fizikát imádom.",
+              "back_en": "I love physics.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "szeretem a fizikát.",
+              "weight": 0.5761500573638277
+            },
+            {
+              "hu": "imádom a fizikát.",
+              "weight": 0.24190243324398178
+            },
+            {
+              "hu": "én szeretem a fizikát.",
+              "weight": 0.05198500268348306
+            },
+            {
+              "hu": "a fizikát szeretem.",
+              "weight": 0.02599250134174153
+            },
+            {
+              "hu": "én imádom a fizikát.",
+              "weight": 0.02599250134174153
+            },
+            {
+              "hu": "a fizikát imádom.",
+              "weight": 0.02599250134174153
+            },
+            {
+              "hu": "én a fizikát imádom.",
+              "weight": 0.02599250134174153
+            },
+            {
+              "hu": "én a fizikát szeretem.",
+              "weight": 0.02599250134174153
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_65d691665360e9ab3ef9de0cbe56161f",
+          "english_prompt": "it is a perfect animal.",
+          "aws_hu": "Ez egy tökéletes állat.",
+          "prompt_f1": 0.9190402577180163,
+          "prompt_weighted_recall": 0.850207664327865,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Ez egy tökéletes állat.",
+              "back_en": "This is a perfect animal.",
+              "matches_gold": true
+            },
+            {
+              "hu": "tökéletes állat.",
+              "back_en": "the perfect animal.",
+              "matches_gold": true
+            },
+            {
+              "hu": "tökéletes állat ez.",
+              "back_en": "this is the perfect animal.",
+              "matches_gold": true
+            },
+            {
+              "hu": "ez tökéletes állat.",
+              "back_en": "this is the perfect animal.",
+              "matches_gold": true
+            },
+            {
+              "hu": "egy tökéletes állat.",
+              "back_en": "a perfect animal.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ez egy tökéletes állat.",
+              "weight": 0.6054721866549585
+            },
+            {
+              "hu": "egy tökéletes állat.",
+              "weight": 0.09072881737337866
+            },
+            {
+              "hu": "ez tökéletes állat.",
+              "weight": 0.08259606933347284
+            },
+            {
+              "hu": "az egy tökéletes állat.",
+              "weight": 0.07325469495060044
+            },
+            {
+              "hu": "tökéletes állat.",
+              "weight": 0.05227618078567132
+            },
+            {
+              "hu": "egy tökéletes állat az.",
+              "weight": 0.01913441018038366
+            },
+            {
+              "hu": "tökéletes állat ez.",
+              "weight": 0.01913441018038366
+            },
+            {
+              "hu": "az tökéletes állat.",
+              "weight": 0.01913441018038366
+            },
+            {
+              "hu": "tökéletes állat az.",
+              "weight": 0.01913441018038366
+            },
+            {
+              "hu": "egy tökéletes állat ez.",
+              "weight": 0.01913441018038366
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_b3384f554b73efb1f79dde260ad3bd88",
+          "english_prompt": "the engineer has a family.",
+          "aws_hu": "A mérnöknek családja van.",
+          "prompt_f1": 0.9168941367992928,
+          "prompt_weighted_recall": 0.8465415689743947,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "A mérnöknek családja van.",
+              "back_en": "The engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "a mérnöknek van egy családja.",
+              "back_en": "the engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "a mérnöknek egy családja van.",
+              "back_en": "the engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "családja van a mérnöknek.",
+              "back_en": "the engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "a mérnöknek van családja.",
+              "back_en": "the engineer has a family.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a mérnöknek van családja.",
+              "weight": 0.47517761649246687
+            },
+            {
+              "hu": "a mérnöknek van egy családja.",
+              "weight": 0.2201757332430307
+            },
+            {
+              "hu": "a mérnöknek családja van.",
+              "weight": 0.11097897817931188
+            },
+            {
+              "hu": "a mérnök családos.",
+              "weight": 0.04623378820004512
+            },
+            {
+              "hu": "a mérnöknek egy családja van.",
+              "weight": 0.026806160706390133
+            },
+            {
+              "hu": "családja a mérnöknek van.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "a mérnök családos ember.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "van a mérnöknek családja.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "családja van a mérnöknek.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "van egy családja a mérnöknek.",
+              "weight": 0.013403080353195066
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_986b74ffad4d3dd8f457bc15d3a55426",
+          "english_prompt": "i did not like the novel.",
+          "aws_hu": "Nem tetszett a regény.",
+          "prompt_f1": 0.9110689927643777,
+          "prompt_weighted_recall": 0.8366636515174932,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Nem tetszett a regény.",
+              "back_en": "I did not like the novel.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nem szerettem a regényt.",
+              "back_en": "I did not like the novel.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nem tetszett nekem a regény.",
+              "back_en": "I did not like the novel.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nem tetszett a regény nekem.",
+              "back_en": "I did not like the novel.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nekem nem tetszett a regény.",
+              "back_en": "I did not like the novel.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "nem tetszett a regény.",
+              "weight": 0.32343878291447536
+            },
+            {
+              "hu": "nem szerettem a regényt.",
+              "weight": 0.2195083838123744
+            },
+            {
+              "hu": "nem tetszett nekem a regény.",
+              "weight": 0.17539918262089346
+            },
+            {
+              "hu": "nem kedveltem a regényt.",
+              "weight": 0.09430709794786828
+            },
+            {
+              "hu": "nekem nem tetszett a regény.",
+              "weight": 0.06546261114020775
+            },
+            {
+              "hu": "nem tetszett a regény nekem.",
+              "weight": 0.05285469102954227
+            },
+            {
+              "hu": "én nem szerettem a regényt.",
+              "weight": 0.013805850106927744
+            },
+            {
+              "hu": "én nem kedveltem a regényt.",
+              "weight": 0.013805850106927744
+            },
+            {
+              "hu": "a regény nekem nem tetszett.",
+              "weight": 0.013805850106927744
+            },
+            {
+              "hu": "a regény nem tetszett nekem.",
+              "weight": 0.013805850106927744
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_dab9a54fa2e0423fb3a78312c465bc76",
+          "english_prompt": "they are children.",
+          "aws_hu": "Ők gyerekek.",
+          "prompt_f1": 0.9095282811119312,
+          "prompt_weighted_recall": 0.8340686561219196,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Ők gyerekek.",
+              "back_en": "They are children.",
+              "matches_gold": true
+            },
+            {
+              "hu": "gyerekek ők.",
+              "back_en": "they are children.",
+              "matches_gold": true
+            },
+            {
+              "hu": "gyerekek.",
+              "back_en": "children.",
+              "matches_gold": true
+            },
+            {
+              "hu": "gyermekek ők.",
+              "back_en": "children they are.",
+              "matches_gold": true
+            },
+            {
+              "hu": "gyerekek azok.",
+              "back_en": "children are.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ők gyerekek.",
+              "weight": 0.567357238370049
+            },
+            {
+              "hu": "gyerekek.",
+              "weight": 0.21849892351219807
+            },
+            {
+              "hu": "azok gyerekek.",
+              "weight": 0.07059907189975585
+            },
+            {
+              "hu": "ők gyermekek.",
+              "weight": 0.05602457871930274
+            },
+            {
+              "hu": "gyerekek azok.",
+              "weight": 0.021498091297720293
+            },
+            {
+              "hu": "azok gyermekek.",
+              "weight": 0.021498091297720293
+            },
+            {
+              "hu": "gyerekek ők.",
+              "weight": 0.017809601961301512
+            },
+            {
+              "hu": "gyermekek azok.",
+              "weight": 0.008904800980650756
+            },
+            {
+              "hu": "gyermekek ők.",
+              "weight": 0.008904800980650756
+            },
+            {
+              "hu": "gyermekek.",
+              "weight": 0.008904800980650756
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "best_model_best6_10",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_8d179be66e97608eb6b54bf17ddd98b4",
+          "english_prompt": "the shoe is red.",
+          "aws_hu": "A cipő piros.",
+          "prompt_f1": 0.9086918307409388,
+          "prompt_weighted_recall": 0.8326629052524102,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "A cipő piros.",
+              "back_en": "The shoes are red.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A cipő piros színű.",
+              "back_en": "The shoes are red.",
+              "matches_gold": true
+            },
+            {
+              "hu": "piros a cipő.",
+              "back_en": "red shoes.",
+              "matches_gold": true
+            },
+            {
+              "hu": "piros színű a cipő.",
+              "back_en": "the shoes are red.",
+              "matches_gold": true
+            },
+            {
+              "hu": "vörös a cipő.",
+              "back_en": "red shoes.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a cipő piros.",
+              "weight": 0.6903856173312056
+            },
+            {
+              "hu": "a cipő vörös.",
+              "weight": 0.11769437778725339
+            },
+            {
+              "hu": "piros a cipő.",
+              "weight": 0.06781321248070005
+            },
+            {
+              "hu": "piros színű a cipő.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "a cipő vörös színű.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "a cipő piros színű.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "vörös a cipő.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "vörös színű a cipő.",
+              "weight": 0.024821358480168167
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_43d7542832789acef4065ac7f9325800",
+          "english_prompt": "there are differences.",
+          "aws_hu": "Vannak különbségek.",
+          "prompt_f1": 0.8941518774333969,
+          "prompt_weighted_recall": 0.8085666188573231,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Vannak különbségek.",
+              "back_en": "There are differences.",
+              "matches_gold": true
+            },
+            {
+              "hu": "különbségek vannak.",
+              "back_en": "there are differences.",
+              "matches_gold": true
+            },
+            {
+              "hu": "vannak eltérések.",
+              "back_en": "there are differences.",
+              "matches_gold": true
+            },
+            {
+              "hu": "eltérések vannak.",
+              "back_en": "there are differences.",
+              "matches_gold": true
+            },
+            {
+              "hu": "vannak különbözőségek.",
+              "back_en": "there are differences.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "vannak különbségek.",
+              "weight": 0.5244437904115629
+            },
+            {
+              "hu": "különbségek vannak.",
+              "weight": 0.14257406154683105
+            },
+            {
+              "hu": "vannak eltérések.",
+              "weight": 0.07773763985137017
+            },
+            {
+              "hu": "vannak különbözőségek.",
+              "weight": 0.04785834528566925
+            },
+            {
+              "hu": "vannak differenciák.",
+              "weight": 0.0319055635237795
+            },
+            {
+              "hu": "léteznek eltérések.",
+              "weight": 0.01595278176188975
+            },
+            {
+              "hu": "különbözőségek léteznek.",
+              "weight": 0.01595278176188975
+            },
+            {
+              "hu": "differenciák vannak.",
+              "weight": 0.01595278176188975
+            },
+            {
+              "hu": "léteznek differenciák.",
+              "weight": 0.01595278176188975
+            },
+            {
+              "hu": "léteznek különbségek.",
+              "weight": 0.01595278176188975
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_81da6b1817f5361e6cb5d0dd2a03a9f8",
+          "english_prompt": "who has allowed it?",
+          "aws_hu": "Ki engedte meg?",
+          "prompt_f1": 0.8706066272733857,
+          "prompt_weighted_recall": 0.770862171053423,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Ki engedte meg?",
+              "back_en": "Who allowed it?",
+              "matches_gold": true
+            },
+            {
+              "hu": "ki engedte meg ezt?",
+              "back_en": "who allowed this?",
+              "matches_gold": true
+            },
+            {
+              "hu": "ki engedte meg azt?",
+              "back_en": "who allowed that?",
+              "matches_gold": true
+            },
+            {
+              "hu": "ki engedte ezt meg?",
+              "back_en": "who allowed this?",
+              "matches_gold": true
+            },
+            {
+              "hu": "ki engedte ezt?",
+              "back_en": "who allowed this?",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ki engedte meg?",
+              "weight": 0.35337910198478173
+            },
+            {
+              "hu": "ki engedte meg ezt?",
+              "weight": 0.14484074797967644
+            },
+            {
+              "hu": "ki engedte ezt meg?",
+              "weight": 0.10207040270927335
+            },
+            {
+              "hu": "ki engedte ezt?",
+              "weight": 0.09206214212613816
+            },
+            {
+              "hu": "ki engedte meg azt?",
+              "weight": 0.07850977625355333
+            },
+            {
+              "hu": "ki engedte?",
+              "weight": 0.05549981420296779
+            },
+            {
+              "hu": "ki engedélyezte?",
+              "weight": 0.041373862346373275
+            },
+            {
+              "hu": "ki engedélyezte ezt?",
+              "weight": 0.03635398896376693
+            },
+            {
+              "hu": "ki engedte azt?",
+              "weight": 0.03447563206174876
+            },
+            {
+              "hu": "ezt ki engedte meg?",
+              "weight": 0.025080542407953373
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_1b93d925a994714583c0904aca15934c",
+          "english_prompt": "that team has a good coach.",
+          "aws_hu": "Annak a csapatnak jó edzője van.",
+          "prompt_f1": 0.8657409603370267,
+          "prompt_weighted_recall": 0.76326564749642,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Annak a csapatnak jó edzője van.",
+              "back_en": "That team has a good coach.",
+              "matches_gold": true
+            },
+            {
+              "hu": "annak a csapatnak van egy jó edzője.",
+              "back_en": "that team has a good coach.",
+              "matches_gold": true
+            },
+            {
+              "hu": "annak a csapatnak egy jó edzője van.",
+              "back_en": "that team has a good coach.",
+              "matches_gold": true
+            },
+            {
+              "hu": "annak a csapatnak van jó edzője.",
+              "back_en": "that team has a good coach.",
+              "matches_gold": true
+            },
+            {
+              "hu": "jó edzője van annak a csapatnak.",
+              "back_en": "that team has a good coach.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "annak a csapatnak jó edzője van.",
+              "weight": 0.3375985291179607
+            },
+            {
+              "hu": "annak a csapatnak van egy jó edzője.",
+              "weight": 0.16177838777221265
+            },
+            {
+              "hu": "annak a csapatnak egy jó edzője van.",
+              "weight": 0.15341953748009823
+            },
+            {
+              "hu": "annak a csapatnak jó az edzője.",
+              "weight": 0.1396673198402524
+            },
+            {
+              "hu": "jó edzője van annak a csapatnak.",
+              "weight": 0.07811351557170589
+            },
+            {
+              "hu": "az a csapat egy jó edzővel rendelkezik.",
+              "weight": 0.03235567755444253
+            },
+            {
+              "hu": "az a csapat jó edzővel rendelkezik.",
+              "weight": 0.03235567755444253
+            },
+            {
+              "hu": "annak a csapatnak van jó edzője.",
+              "weight": 0.03235567755444253
+            },
+            {
+              "hu": "egy jó edzője van annak a csapatnak.",
+              "weight": 0.03235567755444253
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_4ede9ad84864c6b1afd6a4fd222c372b",
+          "english_prompt": "call me!",
+          "aws_hu": "Hívj fel!",
+          "prompt_f1": 0.8626105555364993,
+          "prompt_weighted_recall": 0.7584126613232174,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Hívj fel!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívj fel engem!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívj engem!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívjon fel engem!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívjon fel!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "hívj fel!",
+              "weight": 0.4766700120226458
+            },
+            {
+              "hu": "hívj engem!",
+              "weight": 0.16460631828468233
+            },
+            {
+              "hu": "hívj fel engem!",
+              "weight": 0.07450327124939819
+            },
+            {
+              "hu": "hívjál engem!",
+              "weight": 0.02842203984432742
+            },
+            {
+              "hu": "hívjanak !",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjatok fel engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjanak engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjatok engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjon engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjatok fel !",
+              "weight": 0.01421101992216371
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "base_raw_worst1_5",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_97e7b126ddf3ede881526f8dbb11a626",
+          "english_prompt": "we eat half of the bread.",
+          "aws_hu": "megesszük a kenyér felét.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "A kenyér felét eszünk.",
+              "back_en": "We eat half the bread.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A kenyér felét fogyasztjuk.",
+              "back_en": "Half of the bread is eaten.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A kenyér felét eszük.",
+              "back_en": "They eat half the bread.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A kenyér felét enni szoktunk.",
+              "back_en": "We eat half the bread.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a kenyér felét evünk.",
+              "back_en": "we eat half the bread.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "megesszük a kenyér felét.",
+              "weight": 0.08465797380385623
+            },
+            {
+              "hu": "fél kenyeret eszünk.",
+              "weight": 0.05310182134885488
+            },
+            {
+              "hu": "egy fél kenyeret eszünk.",
+              "weight": 0.03654265221720239
+            },
+            {
+              "hu": "a kenyér felét megesszük.",
+              "weight": 0.035336333273788476
+            },
+            {
+              "hu": "a kenyér felét esszük.",
+              "weight": 0.03492342597374989
+            },
+            {
+              "hu": "a kenyér felét esszük meg.",
+              "weight": 0.03492342597374989
+            },
+            {
+              "hu": "eszünk egy fél kenyeret.",
+              "weight": 0.02943036762640655
+            },
+            {
+              "hu": "megeszünk egy fél kenyeret.",
+              "weight": 0.028915756165819685
+            },
+            {
+              "hu": "megesszük a fél kenyeret.",
+              "weight": 0.026735872936507032
+            },
+            {
+              "hu": "mi fél kenyeret eszünk.",
+              "weight": 0.022271674613651527
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_bd9bcce016e19c478ca183eb94ac3edc",
+          "english_prompt": "he would like for her to live in europe.",
+          "aws_hu": "Azt szeretné, hogy Európában éljen.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Szeretné, ha Európában élne.",
+              "back_en": "He wants to live in Europe.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Azt szeretné, ha Európában élne.",
+              "back_en": "He wants to live in Europe.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Szeretne, ha Európában élne.",
+              "back_en": "He wants to live in Europe.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Szerette volna, hogy Európában éljen.",
+              "back_en": "He wanted to live in Europe.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Szerette volna, ha Európában élne.",
+              "back_en": "He wanted to live in Europe.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a férfi azt szeretné, hogy a nő európában éljen.",
+              "weight": 0.012182615931589418
+            },
+            {
+              "hu": "szeretné, ha ő európában élne.",
+              "weight": 0.009735339701096581
+            },
+            {
+              "hu": "a férfi szeretné, hogy a nő európában éljen.",
+              "weight": 0.007710544073361541
+            },
+            {
+              "hu": "ő szeretné, ha ő európában élne.",
+              "weight": 0.006813526316426539
+            },
+            {
+              "hu": "azt szeretné, hogy a nő európában éljen.",
+              "weight": 0.006813526316426539
+            },
+            {
+              "hu": "a férfi szeretné, ha a lány európában élne.",
+              "weight": 0.005644510015699738
+            },
+            {
+              "hu": "a férfi azt szeretné, hogy a nő európában lakjon.",
+              "weight": 0.005644510015699738
+            },
+            {
+              "hu": "azt szeretné, hogy ő európában éljen.",
+              "weight": 0.005644510015699738
+            },
+            {
+              "hu": "a férfi azt szeretné, ha a nő európában élne.",
+              "weight": 0.005644510015699738
+            },
+            {
+              "hu": "szeretné, hogy a nő európában éljen.",
+              "weight": 0.005644510015699738
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_1b93d925a994714583c0904aca15934c",
+          "english_prompt": "that team has a good coach.",
+          "aws_hu": "Annak a csapatnak jó edzője van.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "A csapatnak jó edzője van.",
+              "back_en": "The team has a good coach.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Ennek a csapatnak jó edzője van.",
+              "back_en": "This team has a good coach.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Ennek a csapatnak van egy jó edzője.",
+              "back_en": "This team has a good coach.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Ebben a csapatban jó edző van.",
+              "back_en": "This team has a good coach.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A csapatnak van egy jó edzője.",
+              "back_en": "The team has a good coach.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "annak a csapatnak jó edzője van.",
+              "weight": 0.3375985291179607
+            },
+            {
+              "hu": "annak a csapatnak van egy jó edzője.",
+              "weight": 0.16177838777221265
+            },
+            {
+              "hu": "annak a csapatnak egy jó edzője van.",
+              "weight": 0.15341953748009823
+            },
+            {
+              "hu": "annak a csapatnak jó az edzője.",
+              "weight": 0.1396673198402524
+            },
+            {
+              "hu": "jó edzője van annak a csapatnak.",
+              "weight": 0.07811351557170589
+            },
+            {
+              "hu": "az a csapat egy jó edzővel rendelkezik.",
+              "weight": 0.03235567755444253
+            },
+            {
+              "hu": "az a csapat jó edzővel rendelkezik.",
+              "weight": 0.03235567755444253
+            },
+            {
+              "hu": "annak a csapatnak van jó edzője.",
+              "weight": 0.03235567755444253
+            },
+            {
+              "hu": "egy jó edzője van annak a csapatnak.",
+              "weight": 0.03235567755444253
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_6bf3ba8f17283622fd12acbe46207a11",
+          "english_prompt": "at your house, you have yellow pants.",
+          "aws_hu": "a házadnál, sárga nadrágod van.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "A házadban sárga nadrág van.",
+              "back_en": "Your house has yellow pants.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A házadnál sárga nadrág van.",
+              "back_en": "There are yellow pants at your house.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Az otthonodban sárga nadrág van.",
+              "back_en": "You have yellow pants in your home.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A házadban sárga nadrágok vannak.",
+              "back_en": "In your house there are yellow trousers.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A házadban a sárga nadrágod van.",
+              "back_en": "In your house are your yellow pants.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "van otthon sárga nadrágod.",
+              "weight": 0.03773584905660378
+            },
+            {
+              "hu": "a házukban önöknek van citromsárga nadrágja.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "neked van a házadban citromsárga nadrágod.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban vannak neked sárga nadrágjaid.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házában önnek van sárga nadrágja.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban van neked citromsárga nadrágod.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban citromsárga nadrágod van.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "neked van sárga nadrágod a házadban.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "otthon neked van sárga nadrágod.",
+              "weight": 0.01886792452830189
+            },
+            {
+              "hu": "a házadban vannak sárga nadrágjaid.",
+              "weight": 0.01886792452830189
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_e86b30fcba71b9f43600de123632970b",
+          "english_prompt": "we drink our tea with sugar.",
+          "aws_hu": "cukorral inni a teát.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "A teánkat cukorral iszunk.",
+              "back_en": "We drink our tea with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A teát cukorral iszunk.",
+              "back_en": "The tea is drunk with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A teánkat cukorral igyunk.",
+              "back_en": "Drink our tea with sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "a tea cukort kap.",
+              "back_en": "the tea gets sugar.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Csészebb címe a teánk cukorral jár.",
+              "back_en": "Our tea has a fuller title and comes with sugar.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "cukorral isszuk a teánkat.",
+              "weight": 0.1278726221159797
+            },
+            {
+              "hu": "a teánkat cukorral isszuk.",
+              "weight": 0.08991348023769138
+            },
+            {
+              "hu": "megisszuk a teánkat cukorral.",
+              "weight": 0.07567449840345526
+            },
+            {
+              "hu": "isszuk a teánkat cukorral.",
+              "weight": 0.04929344645880512
+            },
+            {
+              "hu": "mi cukorral isszuk a teánkat.",
+              "weight": 0.04929344645880512
+            },
+            {
+              "hu": "a teánkat isszuk cukorral.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "isszuk a mi teánkat cukorral.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "mi isszuk a teánkat cukorral.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "mi a teánkat cukorral isszuk.",
+              "weight": 0.03286229763920341
+            },
+            {
+              "hu": "mi isszuk cukorral a teánk.",
+              "weight": 0.016431148819601706
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "base_raw_worst6_10",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_0b09e786f35933566e82d4994aa54f55",
+          "english_prompt": "he would believe you.",
+          "aws_hu": "Hinne neked.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Hitt volna neked.",
+              "back_en": "He would have believed you.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Hittene neked.",
+              "back_en": "I'd believe you.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Elhinne neked.",
+              "back_en": "I'd like you to.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Elhitt volna neked.",
+              "back_en": "He would have married you.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Elhinne önnek.",
+              "back_en": "I'd like you to.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "hinne neked.",
+              "weight": 0.25561587498255883
+            },
+            {
+              "hu": "ő hinne neked.",
+              "weight": 0.17178095192710185
+            },
+            {
+              "hu": "teneked hinne.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "elhinné teneked.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "ő hinne teneked.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "ő teneked hinne.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "neked hinne.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "elhinné neked.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "ő neked hinne.",
+              "weight": 0.057260317309033956
+            },
+            {
+              "hu": "hinne teneked.",
+              "weight": 0.057260317309033956
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_e500491649aa77c92aa416113f77c0e5",
+          "english_prompt": "i have few blue plates.",
+          "aws_hu": "Van néhány kék tányérom.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Kevés kék tányérem van.",
+              "back_en": "I have few blue plates.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Nekem kevés kék lemez van.",
+              "back_en": "I have few blue plates.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Nincs sok kék tányérom.",
+              "back_en": "I don't have many blue plates.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Kevés kék tányér van.",
+              "back_en": "There are few blue plates.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Kevés kék lemez van.",
+              "back_en": "There are few blue plates.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "kevés kék tányérom van.",
+              "weight": 0.5829627019929821
+            },
+            {
+              "hu": "nekem kevés kék tányérom van.",
+              "weight": 0.07280778152001523
+            },
+            {
+              "hu": "kevés kék tányéram van.",
+              "weight": 0.07280778152001523
+            },
+            {
+              "hu": "kevés a kék tányérom.",
+              "weight": 0.06031594110377501
+            },
+            {
+              "hu": "nekem kevés a kék tányérom.",
+              "weight": 0.06031594110377501
+            },
+            {
+              "hu": "kevés kék tányérom van nekem.",
+              "weight": 0.030157970551887504
+            },
+            {
+              "hu": "nekem kevés kék tányéram van.",
+              "weight": 0.030157970551887504
+            },
+            {
+              "hu": "nekem kevés a kék tányéram.",
+              "weight": 0.030157970551887504
+            },
+            {
+              "hu": "kevés a kék tányéram.",
+              "weight": 0.030157970551887504
+            },
+            {
+              "hu": "kevés kék tányéram van nekem.",
+              "weight": 0.030157970551887504
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_7f3c9d2fa3cb45c885f3050dad06eb38",
+          "english_prompt": "which hats are red?",
+          "aws_hu": "melyik kalapok pirosak?",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Melyik kalap piros?",
+              "back_en": "Which hat is red?",
+              "matches_gold": false
+            },
+            {
+              "hu": "Melyik kalap vörös?",
+              "back_en": "Which hat is red?",
+              "matches_gold": false
+            },
+            {
+              "hu": "Melyik sapka piros?",
+              "back_en": "Which cap is red?",
+              "matches_gold": false
+            },
+            {
+              "hu": "Melyik sapka vörös?",
+              "back_en": "Which cap is red?",
+              "matches_gold": false
+            },
+            {
+              "hu": "Melyik kalapot vésznek?",
+              "back_en": "Which hat do they wear?",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "melyik kalapok pirosak?",
+              "weight": 0.37724488229831477
+            },
+            {
+              "hu": "mely kalapok pirosak?",
+              "weight": 0.17384484089808896
+            },
+            {
+              "hu": "melyik kalapok a pirosak?",
+              "weight": 0.059195546617067045
+            },
+            {
+              "hu": "melyik kalapok vörösek?",
+              "weight": 0.04039801819235904
+            },
+            {
+              "hu": "mely kalapok vörösek?",
+              "weight": 0.04039801819235904
+            },
+            {
+              "hu": "melyik sapkák pirosak?",
+              "weight": 0.03715774901652303
+            },
+            {
+              "hu": "mely sapkák pirosak?",
+              "weight": 0.019411496056091937
+            },
+            {
+              "hu": "melyik sapkák a pirosak?",
+              "weight": 0.019411496056091937
+            },
+            {
+              "hu": "mely sapkák vörös színűek?",
+              "weight": 0.009705748028045968
+            },
+            {
+              "hu": "mely sapkák a vörös színűek?",
+              "weight": 0.009705748028045968
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_4115c7e31939c2f8bc92829047061c3c",
+          "english_prompt": "he is with the architect.",
+          "aws_hu": "Ő az építész.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Az építésznél van.",
+              "back_en": "The architect has it.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Az építészhez tartozik.",
+              "back_en": "It belongs to the architect.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Itt van az építésznél.",
+              "back_en": "Here it is at the architect.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Az építészhez jár.",
+              "back_en": "It goes to the architect.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Az építészével van.",
+              "back_en": "It is with the architect.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "az építésszel van.",
+              "weight": 0.3392938294267764
+            },
+            {
+              "hu": "ő az építésszel van.",
+              "weight": 0.24185745342177997
+            },
+            {
+              "hu": "ő az építészmérnökkel van.",
+              "weight": 0.0755510367436676
+            },
+            {
+              "hu": "ő van az építésszel.",
+              "weight": 0.06676169310343691
+            },
+            {
+              "hu": "ő együtt van az építésszel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "együtt van az építészmérnökkel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "együtt van az építésszel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "ő van az építészmérnökkel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "ő együtt van az építészmérnökkel.",
+              "weight": 0.027653598730433892
+            },
+            {
+              "hu": "az építésszel ő van.",
+              "weight": 0.027653598730433892
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_4870ac22c2d52d478c3a09fbe60f99aa",
+          "english_prompt": "i am twenty.",
+          "aws_hu": "Húsz éves vagyok.",
+          "prompt_f1": 0.0,
+          "prompt_weighted_recall": 0.0,
+          "prompt_precision": 0.0,
+          "predictions": [
+            {
+              "hu": "Húsz éves vagyok.",
+              "back_en": "I am twenty years old.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Huszonéves vagyok.",
+              "back_en": "I am in my twenties.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Huszon éves vagyok.",
+              "back_en": "I am twenty years old.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "20 éves vagyok.",
+              "weight": 0.4482670671821132
+            },
+            {
+              "hu": "húszéves vagyok.",
+              "weight": 0.37451185677962434
+            },
+            {
+              "hu": "én húszéves vagyok.",
+              "weight": 0.04430526900956566
+            },
+            {
+              "hu": "én 20 éves vagyok.",
+              "weight": 0.04430526900956566
+            },
+            {
+              "hu": "20 esztendős vagyok.",
+              "weight": 0.02215263450478283
+            },
+            {
+              "hu": "én 20 esztendős vagyok.",
+              "weight": 0.02215263450478283
+            },
+            {
+              "hu": "húszesztendős vagyok.",
+              "weight": 0.02215263450478283
+            },
+            {
+              "hu": "én húszesztendős vagyok.",
+              "weight": 0.02215263450478283
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "base_raw_best1_5",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_b3384f554b73efb1f79dde260ad3bd88",
+          "english_prompt": "the engineer has a family.",
+          "aws_hu": "A mérnöknek családja van.",
+          "prompt_f1": 0.8162330329495461,
+          "prompt_weighted_recall": 0.8331384886211997,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "A mérnöknek családja van.",
+              "back_en": "The engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A mérnöknek van családja.",
+              "back_en": "The engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A mérnöknek egy családja van.",
+              "back_en": "The engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A mérnöknek van egy családja.",
+              "back_en": "The engineer has a family.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Az mérnöknek van családja.",
+              "back_en": "The engineer has a family.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a mérnöknek van családja.",
+              "weight": 0.47517761649246687
+            },
+            {
+              "hu": "a mérnöknek van egy családja.",
+              "weight": 0.2201757332430307
+            },
+            {
+              "hu": "a mérnöknek családja van.",
+              "weight": 0.11097897817931188
+            },
+            {
+              "hu": "a mérnök családos.",
+              "weight": 0.04623378820004512
+            },
+            {
+              "hu": "a mérnöknek egy családja van.",
+              "weight": 0.026806160706390133
+            },
+            {
+              "hu": "családja a mérnöknek van.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "a mérnök családos ember.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "van a mérnöknek családja.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "családja van a mérnöknek.",
+              "weight": 0.013403080353195066
+            },
+            {
+              "hu": "van egy családja a mérnöknek.",
+              "weight": 0.013403080353195066
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_dcc215937155034129d13901ac4e623d",
+          "english_prompt": "which book is yours?",
+          "aws_hu": "Melyik könyv a tiéd?",
+          "prompt_f1": 0.7972245118394635,
+          "prompt_weighted_recall": 0.7944682154321452,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "Melyik könyv a tiéd?",
+              "back_en": "Which book is yours?",
+              "matches_gold": true
+            },
+            {
+              "hu": "Melyik könyv az öné?",
+              "back_en": "Which book is yours?",
+              "matches_gold": true
+            },
+            {
+              "hu": "Melyik könyv a tied?",
+              "back_en": "Which book is yours?",
+              "matches_gold": true
+            },
+            {
+              "hu": "Melyik könyv az övé?",
+              "back_en": "Which book is his?",
+              "matches_gold": false
+            },
+            {
+              "hu": "Melyik a te könyved?",
+              "back_en": "Which is your book?",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "melyik könyv a tiéd?",
+              "weight": 0.36822382026167927
+            },
+            {
+              "hu": "melyik könyv a tied?",
+              "weight": 0.24436930466425527
+            },
+            {
+              "hu": "melyik a te könyved?",
+              "weight": 0.17194172112792808
+            },
+            {
+              "hu": "melyik a könyved?",
+              "weight": 0.09709833191952351
+            },
+            {
+              "hu": "melyik könyv a tiétek?",
+              "weight": 0.06869997513520086
+            },
+            {
+              "hu": "melyik könyv az öné?",
+              "weight": 0.009933369378282566
+            },
+            {
+              "hu": "melyik az ön könyve?",
+              "weight": 0.009933369378282566
+            },
+            {
+              "hu": "melyik könyv a magáé?",
+              "weight": 0.009933369378282566
+            },
+            {
+              "hu": "melyik könyv az önéké?",
+              "weight": 0.009933369378282566
+            },
+            {
+              "hu": "melyik könyv a maguké?",
+              "weight": 0.009933369378282566
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_7faca309a8e25eae41a7a284a486ce71",
+          "english_prompt": "what is your name?",
+          "aws_hu": "Mi a neved?",
+          "prompt_f1": 0.7923094559333799,
+          "prompt_weighted_recall": 0.7847653651550273,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "Mi a neved?",
+              "back_en": "What is your name?",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hogy hívják?",
+              "back_en": "What is it called?",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hogy hívják a nevüket?",
+              "back_en": "What are their names?",
+              "matches_gold": false
+            },
+            {
+              "hu": "Hogy hívnak?",
+              "back_en": "What is your name?",
+              "matches_gold": true
+            },
+            {
+              "hu": "Mi a te neved?",
+              "back_en": "What is your name?",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "mi a neved?",
+              "weight": 0.5011729287792661
+            },
+            {
+              "hu": "hogy hívnak?",
+              "weight": 0.18129326966965725
+            },
+            {
+              "hu": "mi a te neved?",
+              "weight": 0.08278259796503529
+            },
+            {
+              "hu": "mi a neve?",
+              "weight": 0.07147509370355627
+            },
+            {
+              "hu": "hogy hívnak téged?",
+              "weight": 0.026660128695005073
+            },
+            {
+              "hu": "hogy hívják?",
+              "weight": 0.019516568741068666
+            },
+            {
+              "hu": "hogy hívnak titeket?",
+              "weight": 0.019516568741068666
+            },
+            {
+              "hu": "hogy hívják önt?",
+              "weight": 0.009758284370534333
+            },
+            {
+              "hu": "mi a maga neve?",
+              "weight": 0.009758284370534333
+            },
+            {
+              "hu": "mi a maguk neve?",
+              "weight": 0.009758284370534333
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_c7246bcf7b5cb4dc7aa3ff737820fdf2",
+          "english_prompt": "it is cultural.",
+          "aws_hu": "Ez kulturális.",
+          "prompt_f1": 0.7920364859327231,
+          "prompt_weighted_recall": 0.7842299531033253,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "Ez kulturális jellegű.",
+              "back_en": "It is cultural.",
+              "matches_gold": true
+            },
+            {
+              "hu": "kulturális jellegű.",
+              "back_en": "cultural in nature.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ez kulturális dolog.",
+              "back_en": "It's a cultural thing.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Kulturális.",
+              "back_en": "Cultural.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ez kulturális.",
+              "back_en": "It is cultural.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ez kulturális.",
+              "weight": 0.503541846684115
+            },
+            {
+              "hu": "kulturális.",
+              "weight": 0.15418883462297614
+            },
+            {
+              "hu": "ez kulturális jellegű.",
+              "weight": 0.08778546051451341
+            },
+            {
+              "hu": "az kulturális.",
+              "weight": 0.046572244192429856
+            },
+            {
+              "hu": "kulturális jellegű.",
+              "weight": 0.038713811281720856
+            },
+            {
+              "hu": "kulturális ez.",
+              "weight": 0.02762703740463823
+            },
+            {
+              "hu": "kulturális az.",
+              "weight": 0.010112197521400497
+            },
+            {
+              "hu": "művelődési.",
+              "weight": 0.010112197521400497
+            },
+            {
+              "hu": "az kulturális jellegű.",
+              "weight": 0.010112197521400497
+            },
+            {
+              "hu": "műveltségi.",
+              "weight": 0.010112197521400497
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_86c84b672867580c96d1fb6f51c87088",
+          "english_prompt": "it is not a star, but a planet.",
+          "aws_hu": "ez nem egy csillag, hanem egy bolygó.",
+          "prompt_f1": 0.7877184104632784,
+          "prompt_weighted_recall": 0.6497817151247082,
+          "prompt_precision": 1.0,
+          "predictions": [
+            {
+              "hu": "Ez nem egy csillag, hanem egy bolygó.",
+              "back_en": "It's not a star, it's a planet.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ez nem csillag, hanem bolygó.",
+              "back_en": "It's not a star, it's a planet.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nem egy csillag, hanem egy bolygó.",
+              "back_en": "Not a star, but a planet.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nem csillag, hanem bolygó.",
+              "back_en": "Not a star, but a planet.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ez nem csillag, hanem egy bolygó.",
+              "back_en": "It's not a star, it's a planet.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "ez nem egy csillag, hanem egy bolygó.",
+              "weight": 0.23607870537911568
+            },
+            {
+              "hu": "ez nem csillag, hanem bolygó.",
+              "weight": 0.203434388806407
+            },
+            {
+              "hu": "ez nem csillag, hanem egy bolygó.",
+              "weight": 0.10877767162800031
+            },
+            {
+              "hu": "az nem egy csillag, hanem egy bolygó.",
+              "weight": 0.0742965314041851
+            },
+            {
+              "hu": "ez nem egy csillag, hanem bolygó.",
+              "weight": 0.0742965314041851
+            },
+            {
+              "hu": "nem egy csillag, hanem egy bolygó.",
+              "weight": 0.0742965314041851
+            },
+            {
+              "hu": "az nem csillag, hanem egy bolygó.",
+              "weight": 0.06565313253192134
+            },
+            {
+              "hu": "az nem csillag, hanem bolygó.",
+              "weight": 0.054388835814000155
+            },
+            {
+              "hu": "nem csillag, hanem egy bolygó.",
+              "weight": 0.027194417907000078
+            },
+            {
+              "hu": "az nem egy csillag, hanem bolygó.",
+              "weight": 0.027194417907000078
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "base_raw_best6_10",
+      "k": 5,
+      "count": 5,
+      "rows": [
+        {
+          "prompt_id": "prompt_84f04a89ef513f3c3fc8aa7ebed35bf8",
+          "english_prompt": "the mountain is big.",
+          "aws_hu": "A hegy nagy.",
+          "prompt_f1": 0.7759673704441984,
+          "prompt_weighted_recall": 0.7533365477165503,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "A hegy nagy.",
+              "back_en": "The mountain is big.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A hegy hatalmas.",
+              "back_en": "The mountain is huge.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Nagy a hegy.",
+              "back_en": "It's a big mountain.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A hegye nagy.",
+              "back_en": "The tip is big.",
+              "matches_gold": false
+            },
+            {
+              "hu": "A hegység nagy.",
+              "back_en": "The mountain range is big.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a hegy nagy.",
+              "weight": 0.5924209760049425
+            },
+            {
+              "hu": "a hegy hatalmas.",
+              "weight": 0.061665863070862394
+            },
+            {
+              "hu": "a hegység nagy.",
+              "weight": 0.049624854320372724
+            },
+            {
+              "hu": "nagy a hegy.",
+              "weight": 0.049624854320372724
+            },
+            {
+              "hu": "a hegység hatalmas.",
+              "weight": 0.020555287690287465
+            },
+            {
+              "hu": "jókora a hegység.",
+              "weight": 0.020555287690287465
+            },
+            {
+              "hu": "jókora a hegy.",
+              "weight": 0.020555287690287465
+            },
+            {
+              "hu": "óriási a hegység.",
+              "weight": 0.020555287690287465
+            },
+            {
+              "hu": "a hegy óriási.",
+              "weight": 0.020555287690287465
+            },
+            {
+              "hu": "a hegység jókora.",
+              "weight": 0.020555287690287465
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_9a8a0fb3e8c2d43780348358898bb2ed",
+          "english_prompt": "the students do not understand the examples.",
+          "aws_hu": "A diákok nem értik a példákat.",
+          "prompt_f1": 0.7741243918756774,
+          "prompt_weighted_recall": 0.7498702073391614,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "A diákok nem értik a példákat.",
+              "back_en": "Students do not understand the examples.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A diákok nem értik meg a példákat.",
+              "back_en": "Students do not understand the examples.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A tanulók nem értik a példákat.",
+              "back_en": "Students do not understand the examples.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A hallgatók nem értik a példákat.",
+              "back_en": "Students do not understand examples.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A diákok nem értik a példaikat.",
+              "back_en": "Students do not understand their examples.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a diákok nem értik a példákat.",
+              "weight": 0.40384628408377965
+            },
+            {
+              "hu": "a tanulók nem értik a példákat.",
+              "weight": 0.21357807264172693
+            },
+            {
+              "hu": "a hallgatók nem értik a példákat.",
+              "weight": 0.10117962653105009
+            },
+            {
+              "hu": "a diákok nem értik meg a példákat.",
+              "weight": 0.031266224082604786
+            },
+            {
+              "hu": "a példákat nem értik a diákok.",
+              "weight": 0.031266224082604786
+            },
+            {
+              "hu": "a példákat nem értik meg a tanulók.",
+              "weight": 0.031266224082604786
+            },
+            {
+              "hu": "a példákat nem értik meg a diákok.",
+              "weight": 0.031266224082604786
+            },
+            {
+              "hu": "a hallgatók nem értik meg a példákat.",
+              "weight": 0.031266224082604786
+            },
+            {
+              "hu": "a példákat nem értik a tanulók.",
+              "weight": 0.031266224082604786
+            },
+            {
+              "hu": "a példákat nem értik a hallgatók.",
+              "weight": 0.031266224082604786
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_aee4b9449e383551ae7e2994d7803bdf",
+          "english_prompt": "he is as tall as me.",
+          "aws_hu": "Olyan magas, mint én.",
+          "prompt_f1": 0.7478857751854777,
+          "prompt_weighted_recall": 0.7021460301036689,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "Olyan magas, mint én.",
+              "back_en": "As tall as me.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ugyanolyan magas, mint én.",
+              "back_en": "He's the same height as me.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ő ugyanolyan magas, mint én.",
+              "back_en": "He is the same height as me.",
+              "matches_gold": true
+            },
+            {
+              "hu": "Ő is olyan magas, mint én.",
+              "back_en": "He is as tall as I am.",
+              "matches_gold": false
+            },
+            {
+              "hu": "Ő olyan magas, mint én.",
+              "back_en": "He is as tall as I am.",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "olyan magas, mint én.",
+              "weight": 0.35034768029377533
+            },
+            {
+              "hu": "ő olyan magas, mint én.",
+              "weight": 0.22183304699778003
+            },
+            {
+              "hu": "ugyanolyan magas, mint én.",
+              "weight": 0.08032297449605849
+            },
+            {
+              "hu": "ő ugyanolyan magas, mint én.",
+              "weight": 0.049642328316055105
+            },
+            {
+              "hu": "ugyanolyan magas, mint én vagyok.",
+              "weight": 0.024821164158027553
+            },
+            {
+              "hu": "ő ugyanolyan magas, mint én vagyok.",
+              "weight": 0.024821164158027553
+            },
+            {
+              "hu": "ugyanolyan magas, mint amilyen én.",
+              "weight": 0.024821164158027553
+            },
+            {
+              "hu": "ugyanolyan magas, mint amilyen én vagyok.",
+              "weight": 0.024821164158027553
+            },
+            {
+              "hu": "ő ugyanolyan magas, mint amilyen én.",
+              "weight": 0.024821164158027553
+            },
+            {
+              "hu": "ő olyan magas, mint amilyen én.",
+              "weight": 0.024821164158027553
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_4ede9ad84864c6b1afd6a4fd222c372b",
+          "english_prompt": "call me!",
+          "aws_hu": "Hívj fel!",
+          "prompt_f1": 0.7374136395643912,
+          "prompt_weighted_recall": 0.6839093900738192,
+          "prompt_precision": 0.8,
+          "predictions": [
+            {
+              "hu": "Hívj fel!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívjon fel!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívj meg!",
+              "back_en": "Invite me!",
+              "matches_gold": false
+            },
+            {
+              "hu": "Hívj!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            },
+            {
+              "hu": "Hívj engem!",
+              "back_en": "Call me!",
+              "matches_gold": true
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "hívj fel!",
+              "weight": 0.4766700120226458
+            },
+            {
+              "hu": "hívj engem!",
+              "weight": 0.16460631828468233
+            },
+            {
+              "hu": "hívj fel engem!",
+              "weight": 0.07450327124939819
+            },
+            {
+              "hu": "hívjál engem!",
+              "weight": 0.02842203984432742
+            },
+            {
+              "hu": "hívjanak !",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjatok fel engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjanak engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjatok engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjon engem!",
+              "weight": 0.01421101992216371
+            },
+            {
+              "hu": "hívjatok fel !",
+              "weight": 0.01421101992216371
+            }
+          ]
+        },
+        {
+          "prompt_id": "prompt_8d179be66e97608eb6b54bf17ddd98b4",
+          "english_prompt": "the shoe is red.",
+          "aws_hu": "A cipő piros.",
+          "prompt_f1": 0.7305932750422895,
+          "prompt_weighted_recall": 0.808079995118459,
+          "prompt_precision": 0.6666666666666666,
+          "predictions": [
+            {
+              "hu": "A cipő vörös.",
+              "back_en": "The shoes are red.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A cipő piros.",
+              "back_en": "The shoes are red.",
+              "matches_gold": true
+            },
+            {
+              "hu": "A cipő piros volt.",
+              "back_en": "The shoes were red.",
+              "matches_gold": false
+            }
+          ],
+          "top_gold": [
+            {
+              "hu": "a cipő piros.",
+              "weight": 0.6903856173312056
+            },
+            {
+              "hu": "a cipő vörös.",
+              "weight": 0.11769437778725339
+            },
+            {
+              "hu": "piros a cipő.",
+              "weight": 0.06781321248070005
+            },
+            {
+              "hu": "piros színű a cipő.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "a cipő vörös színű.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "a cipő piros színű.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "vörös a cipő.",
+              "weight": 0.024821358480168167
+            },
+            {
+              "hu": "vörös színű a cipő.",
+              "weight": 0.024821358480168167
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
